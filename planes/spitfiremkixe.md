@@ -88,7 +88,7 @@ Fuel load: 274 kg / 386 l / 85 gallons
 Maximum useful load: 1302 kg  
   
 Forward-firing armament:  
-2 x 20mm gun "Hispano Mk.II", 120 rounds per gun, 650 rounds per minute, wing-mounted  
+2 x 20mm gun "Hispano Mk.II", 140 rounds per gun, 650 rounds per minute, wing-mounted  
 2 x 12.7mm machine gun "Browning .50", 250 rounds per gun, 850 rounds per minute, wing-mounted  
   
 Bombs:  

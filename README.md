@@ -1,6 +1,6 @@
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 4.502  
+Version: 4.503  
 
 ## Planes
 
@@ -43,6 +43,10 @@ Version: 4.502
 ### Bf 109 G-6
 [Specifications](planes/bf109g6.md)  
 ![bf109g6](images/planes/bf109g6.png)  
+
+### Bf 109 G-6 Late
+[Specifications](planes/bf109g6late.md)  
+![bf109g6late](images/planes/bf109g6late.png)  
 
 ### Bf 109 K-4
 [Specifications](planes/bf109k4.md)  

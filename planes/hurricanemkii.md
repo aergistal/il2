@@ -134,7 +134,7 @@ Air cleaner for dusty conditions
 Additional mass: 13 kg  
 Estimated speed loss: 5 km/h
 
-**Additional 4 7.7mm "Browning .303" machine guns**  
+**Four additional "Browning .303" MGs**  
 Four additional wing-mounted "Browning .303" 7.7mm machine guns with 328 rounds per gun.  
 Additional mass: 100 kg  
 Ammunition mass: 39 kg  
