@@ -1,6 +1,8 @@
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 4.503  
+[View on GitHub Pages](https://aergistal.github.io/il2/)  
+
+Version: 4.504  
 
 ## Planes
 
