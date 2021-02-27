@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.504  
+Version: 4.506 (16.02.2021)  
 
 ## Planes
 
