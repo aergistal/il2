@@ -6,7 +6,7 @@
 
 The tank was created by thedesign bureau of Chelyabinsk Tank Factory (ChTZ) during Summer 1942. It saw first combat action at the end of 1942 on Don and Voronezh front.  
   
-The tank was based on its predecessor, KV-1 heavy tank. Because of its low mobility and reliability, KV-1s ('s' means 'skorostnoy' - speedy) was designed to be less armoured, but more mobile and reliable.  
+The tank was based on its predecessor, KV-1 heavy tank. Because of its low mobility and reliability, KV-1s (\'s\' means \'skorostnoy\' - speedy) was designed to be less armoured, but more mobile and reliable.  
   
 Its main gun was its main shortcoming - the 76 mm ZiS-5 gun it inherited from KV-1. Together with reduced armour it made the tank almost equal to much more widespread T-34/76.  
   
@@ -24,14 +24,14 @@ Maximum RPM: 2150 RPM.
 4 speed gearbox with 2 stage demultiplier.  
   
 <b><u>Maximum road speed:</u></b>  
-1-st low: 4.5 kph.  
-2-st low: 6.6 kph.  
-3-st low: 9.3 kph.  
-4-st low: 12.9 kph.  
-1-st high: 16.0 kph.  
-2-st high: 23.1 kph.  
-3-st high: 33.0 kph.  
-4-st high: 45.4 kph.  
+1st low: 4.5 kph.  
+2nd low: 6.6 kph.  
+3rd low: 9.3 kph.  
+4th low: 12.9 kph.  
+1st high: 16.0 kph.  
+2nd high: 23.1 kph.  
+3rd high: 33.0 kph.  
+4th high: 45.4 kph.  
 Reverse low: 5.0 kph.  
 Reverse high: 17.9 kph.  
   

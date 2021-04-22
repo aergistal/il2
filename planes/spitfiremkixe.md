@@ -128,7 +128,7 @@ Operation features:
 
 **150 grade fuel**  
 Allows +25 lb boost  
-Supercharger gear shift automat is disabled. Stages should be manually switched at 9000ft altitude.  
+Automatic supercharger gear shifting is disabled. Stages should be manually switched at 9000ft altitude.  
 Estimated speed increase at sea level: 29 km/h
 
 **Gyro Gunsight**  

@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.506 (16.02.2021)  
+Version: 4.601 (21.04.2021)  
 
 ## Planes
 
@@ -94,6 +94,10 @@ Version: 4.506 (16.02.2021)
 [Specifications](planes/fw190a5.md)  
 ![fw190a5](images/planes/fw190a5.png)  
 
+### Fw 190 A-6
+[Specifications](planes/fw190a6.md)  
+![fw190a6](images/planes/fw190a6.png)  
+
 ### Fw 190 A-8
 [Specifications](planes/fw190a8.md)  
 ![fw190a8](images/planes/fw190a8.png)  
@@ -178,6 +182,10 @@ Version: 4.506 (16.02.2021)
 [Specifications](planes/mig3s24.md)  
 ![mig3s24](images/planes/mig3s24.png)  
 
+### Nieuport 28
+[Specifications](planes/nieuport28.md)  
+![nieuport28](images/planes/nieuport28.png)  
+
 ### P-38J-25
 [Specifications](planes/p38j25.md)  
 ![p38j25](images/planes/p38j25.png)  
@@ -238,6 +246,10 @@ Version: 4.506 (16.02.2021)
 [Specifications](planes/spitfiremkvb.md)  
 ![spitfiremkvb](images/planes/spitfiremkvb.png)  
 
+### Spitfire Mk.XIV
+[Specifications](planes/spitfiremkxiv.md)  
+![spitfiremkxiv](images/planes/spitfiremkxiv.png)  
+
 ### Tempest Mk.V ser.2
 [Specifications](planes/tempestmkvs2.md)  
 ![tempestmkvs2](images/planes/tempestmkvs2.png)  
@@ -267,6 +279,10 @@ Version: 4.506 (16.02.2021)
 ![yak9ts1](images/planes/yak9ts1.png)  
 
 ## Vehicles
+
+### GAZ-MM 72-K
+[Specifications](vehicles/gaz-mm-72k.md)  
+![gaz-mm-72k](images/vehicles/gaz-mm-72k.png)  
 
 ### KV-1s ChTZ (1943)
 [Specifications](vehicles/kv1s.md)  
