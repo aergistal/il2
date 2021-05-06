@@ -21,7 +21,7 @@ Width: 2.0 m.
 Height: 2.5 m.  
 Clearance: 200 mm.  
   
-Engine: GAZ-MM diesel.  
+Engine: GAZ-MM, petrol.  
 Maximum power: 50 HP at 2800 RPM.  
 Maximum RPM: 3000 RPM.  
 4 speed gearbox.  

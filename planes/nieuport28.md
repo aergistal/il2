@@ -1,4 +1,4 @@
-# Nieuport 28
+# Nieuport 28.C1
 
 ![nieuport28](../images/planes/nieuport28.png)
 

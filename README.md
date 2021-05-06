@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.601 (21.04.2021)  
+Version: 4.601b (05/05/2021)  
 
 ## Planes
 
@@ -182,7 +182,7 @@ Version: 4.601 (21.04.2021)
 [Specifications](planes/mig3s24.md)  
 ![mig3s24](images/planes/mig3s24.png)  
 
-### Nieuport 28
+### Nieuport 28.C1
 [Specifications](planes/nieuport28.md)  
 ![nieuport28](images/planes/nieuport28.png)  
 
