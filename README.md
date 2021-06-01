@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.601b (05/05/2021)  
+Version: 4.602 (28/05/2021)  
 
 ## Planes
 
@@ -81,6 +81,10 @@ Version: 4.601b (05/05/2021)
 ### Fokker D.VIIF
 [Specifications](planes/fokkerd7f.md)  
 ![fokkerd7f](images/planes/fokkerd7f.png)  
+
+### Fokker D.VIII
+[Specifications](planes/fokkerd8.md)  
+![fokkerd8](images/planes/fokkerd8.png)  
 
 ### Fokker Dr.I
 [Specifications](planes/fokkerdr1.md)  
@@ -253,6 +257,10 @@ Version: 4.601b (05/05/2021)
 ### Tempest Mk.V ser.2
 [Specifications](planes/tempestmkvs2.md)  
 ![tempestmkvs2](images/planes/tempestmkvs2.png)  
+
+### Typhoon Mk.Ib
+[Specifications](planes/typhoonmkib.md)  
+![typhoonmkib](images/planes/typhoonmkib.png)  
 
 ### U-2VS
 [Specifications](planes/u2vs.md)  
