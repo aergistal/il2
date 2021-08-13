@@ -54,7 +54,7 @@ The truck frame is made of steel, the driver\'s cabin is composite (wood and met
 Barrel length: 67.3.  
 Elevation: +85°..-10°.  
 Ammo: up to 147 rounds (21 clips, 7 rounds per clip).  
-Usable rate of fire: 240 rounds per minute.  
+Rate of fire: 240 rounds per minute.  
 Turret drive: mechanical, 9 seconds per rotation.  
   
 <b><u>Ammunition: </u></b>  

@@ -2,13 +2,17 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.602 (28/05/2021)  
+Version: 4.603 (11/08/2021)  
 
 ## Planes
 
 ### A-20B
 [Specifications](planes/a20b.md)  
 ![a20b](images/planes/a20b.png)  
+
+### Airco D.H.4
+[Specifications](planes/aircodh4.md)  
+![aircodh4](images/planes/aircodh4.png)  
 
 ### Albatros D.Va
 [Specifications](planes/albatrosd5.md)  
@@ -222,6 +226,10 @@ Version: 4.602 (28/05/2021)
 [Specifications](planes/pe2s87.md)  
 ![pe2s87](images/planes/pe2s87.png)  
 
+### Pfalz D.XII
+[Specifications](planes/pfalzd12.md)  
+![pfalzd12](images/planes/pfalzd12.png)  
+
 ### Pfalz D.IIIa
 [Specifications](planes/pfalzd3a.md)  
 ![pfalzd3a](images/planes/pfalzd3a.png)  
@@ -241,6 +249,10 @@ Version: 4.602 (28/05/2021)
 ### SPAD 13.C1
 [Specifications](planes/spad13.md)  
 ![spad13](images/planes/spad13.png)  
+
+### SPAD 7.C1 150hp
+[Specifications](planes/spad7early.md)  
+![spad7early](images/planes/spad7early.png)  
 
 ### Spitfire Mk.IXe
 [Specifications](planes/spitfiremkixe.md)  
@@ -319,6 +331,10 @@ Version: 4.602 (28/05/2021)
 ### Pz.Kpfw.VI Ausf.H1
 [Specifications](vehicles/pzvi-h1.md)  
 ![pzvi-h1](images/vehicles/pzvi-h1.png)  
+
+### Sd.Kfz.10/5
+[Specifications](vehicles/sdkfz10-5.md)  
+![sdkfz10-5](images/vehicles/sdkfz10-5.png)  
 
 ### Sd.Kfz.184
 [Specifications](vehicles/sdkfz184.md)  

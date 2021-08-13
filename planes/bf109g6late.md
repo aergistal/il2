@@ -127,6 +127,14 @@ Racks mass: 30 kg
 Estimated speed loss before drop: 33 km/h  
 Estimated speed loss after drop: 11 km/h
 
+**300-liter Drop Tank**  
+300-liter jettisonable fuel tank  
+Empty mass: 15 kg  
+Full mass: 237 kg  
+Fuel capacity: 300 l  
+Estimated speed loss before drop: 30 km/h  
+Estimated speed loss after drop: 10 km/h
+
 **MW-50 System**  
 MW-50 water-methanol mixture injection system   
 Additional mass: 84 kg  

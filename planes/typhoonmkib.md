@@ -4,8 +4,8 @@
 
 ## Description
 
-Indicated stall speed in flight configuration: 144...171 km/h  
-Indicated stall speed in takeoff/landing configuration: 122...145 km/h  
+Indicated stall speed in flight configuration: 152...182 km/h  
+Indicated stall speed in takeoff/landing configuration: 126...151 km/h  
   
 Dive speed limit: 840 km/h  
 Maximum load factor: 12.0 G  
@@ -16,19 +16,19 @@ Maximum true air speed at sea level, 3700 RPM, boost +9: 581 km/h
 Maximum true air speed at 2000 m, 3700 RPM, boost +9: 634 km/h  
 Maximum true air speed at 5500 m, 3700 RPM, boost +9: 670 km/h  
   
-Service ceiling: 10650 m  
+Service ceiling: 10300 m  
 Climb rate at sea level: 19.3 m/s  
 Climb rate at 3000 m: 14.4 m/s  
-Climb rate at 6000 m: 11.7 m/s  
+Climb rate at 6000 m: 11.2 m/s  
   
-Maximum performance turn at sea level: 23.4 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 28.8 s, at 270 km/h IAS.  
+Maximum performance turn at sea level: 21.2 s, at 270 km/h IAS.  
+Maximum performance turn at 3000 m: 28.4 s, at 270 km/h IAS.  
   
 Flight endurance at 3000 m: 2 h 15 m, at 350 km/h IAS.  
   
-Takeoff speed: 152...185 km/h  
+Takeoff speed: 162...197 km/h  
 Glideslope speed: 170...210 km/h  
-Landing speed: 124...148 km/h  
+Landing speed: 128...153 km/h  
 Landing angle: 11.5 °  
   
 Note 1: the data provided is for international standard atmosphere (ISA).  
@@ -39,10 +39,10 @@ Note 4: climb rates and turn times are given for 3700 RPM and boost +9.
 Engine:  
 Model: Napier Sabre IIA  
 Maximum power in Combat mode (3700 RPM, boost +9, low gear) at sea level: 2180 HP  
-Maximum power in Combat mode (3700 RPM, boost +9, high gear) at 11500 feet: 1830 HP  
+Maximum power in Combat mode (3700 RPM, boost +9, high gear) at 11510 feet: 1830 HP  
   
 Engine modes:  
-Max Cruising power (unlimited time): 3150 RPM, boost +4.5  
+Max Cruising power (unlimited time): 3151 RPM, boost +4.5  
 Climb power (up to 1 hour): 3700 RPM, boost +7  
 Combat power (up to 5 minutes): 3700 RPM, boost +9  
   
@@ -57,7 +57,7 @@ Empty weight: 4256 kg
 Minimum weight (no ammo, 10%25 fuel): 4304 kg  
 Standard weight: 4915 kg  
 Maximum takeoff weight: 6094 kg  
-Fuel load: 496 kg / 691 l / 152 gallons  
+Fuel load: 496 kg / 691 l / 162 gallons  
 Maximum useful load: 1838 kg  
   
 Forward-firing armament:  
