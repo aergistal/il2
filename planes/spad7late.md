@@ -1,6 +1,6 @@
-# SPAD 7.C1 150hp
+# SPAD 7.C1 180hp
 
-![spad7early](../images/planes/spad7early.png)
+![spad7late](../images/planes/spad7late.png)
 
 ## Description
 
@@ -13,7 +13,7 @@ Initial delivery of the SPAD S.VII was slow due to difficulties with the product
 Over 50 French squadrons were ultimately equipped with the SPAD S.VII, in addition to various Belgian, Italian, Russian, and American units. Owing to the type\'s sturdiness and excellent reputation as a fighter and the mechanical problems of the SPAD S.XIII, the SPAD S.VII remained in combat service to the end of the war. It remained in the post-war inventories of many nations, and in France, it remained the standard test aircraft for pilot students until 1928.  
   
 Engine  
-V8 Hispano—Suiza 8Aa 150 hp (1450RPM)  
+V8 Hispano—Suiza 8Ab 180 hp (1540RPM)  
   
 Dimensions  
 Height: 3200 mm  
@@ -28,24 +28,25 @@ Fuel capacity: 105 l
 Oil capacity: 11 l  
   
 Climb rate  
-1000 m — 3 min. 8 sec.  
-2000 m — 6 min. 43 sec.  
-3000 m — 11 min. 26 sec.  
-4000 m — 18 min. 22 sec.  
+1000 m — 2 min. 16 sec.  
+2000 m — 4 min. 48 sec.  
+3000 m — 8 min. 1 sec.  
+4000 m — 12 min. 28 sec.  
   
 Maximum airspeed (IAS)  
-sea level — 193 km/h  
-1000 m — 181 km/h  
-2000 m — 169 km/h  
-3000 m — 156 km/h  
-4000 m — 141 km/h  
+sea level — 219 km/h  
+1000 m — 206 km/h  
+2000 m — 191 km/h  
+3000 m — 177 km/h  
+4000 m — 162 km/h  
+5000 m — 145 km/h  
   
-Service ceiling 5486 m  
+Service ceiling 6553 m  
   
-Endurance 2 h. 30 min.  
+Endurance 1 h. 30 min.  
   
 Armament  
-Forward firing: Vickers Mk.I 7.69mm,  500 rounds.  
+Forward firing: Vickers Mk.I 7.69mm,  350 rounds.  
   
 References  
 1) Aviatik Vintage Aircraft No.1 -  Spad 7.C1  
@@ -55,13 +56,29 @@ References
 
 ## Modifications
 
-**Le Prieur rockets**  
-6 x strut-mounted "Le Prieur" anti-balloon rockets with pointed triangular blade attached to nose cone to assist balloon envelope penetration or additional high explosive filling.  
+**Le-Chretien**  
+Le-Chretien Refractor-type Collimator Sight  
+Additional mass: 1 kg
+
+**Anemometer**  
+E.Badin Anemometer (0..230 km/h at 0 m and 0..240 km/h at 2000 m)  
+Additional mass: 1 kg
+
+**Cockpit light**  
+Cockpit illumination lamp for night sorties  
+Additional mass: 1 kg
+
+**LePrieur rockets**  
+6 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Additional mass: 36 kg  
 Ammunition mass: 12 kg  
 Racks mass: 24 kg  
 Estimated speed loss before launch: 8 km/h  
 Estimated speed loss after launch: 6 km/h
+
+**Aldis**  
+Aldis Refractor-type Collimator Sight (imported from Britain)  
+Additional mass: 2 kg
 
 **Lewis Overwing**  
 Cockpit mounted additional Lewis machinegun with changeable position.  
@@ -76,19 +93,3 @@ Mounts weight: 0.8 kg
 Ammo weight: 12 kg  
 Total weight: 20.3 kg  
 Estimated speed loss: 7-18 km/h
-
-**Anemometer**  
-E.Badin Anemometer (0..230 km/h at 0 m and 0..240 km/h at 2000 m)  
-Additional mass: 1 kg
-
-**Cockpit light**  
-Cockpit illumination lamp for night sorties  
-Additional mass: 1 kg
-
-**Le-Chretien**  
-Le-Chretien Refractor-type Collimator Sight  
-Additional mass: 1 kg
-
-**Aldis**  
-Aldis Refractor-type Collimator Sight (imported from Britain)  
-Additional mass: 2 kg

@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.603 (11/08/2021)  
+Version: 4.604 (21/09/2021)  
 
 ## Planes
 
@@ -253,6 +253,10 @@ Version: 4.603 (11/08/2021)
 ### SPAD 7.C1 150hp
 [Specifications](planes/spad7early.md)  
 ![spad7early](images/planes/spad7early.png)  
+
+### SPAD 7.C1 180hp
+[Specifications](planes/spad7late.md)  
+![spad7late](images/planes/spad7late.png)  
 
 ### Spitfire Mk.IXe
 [Specifications](planes/spitfiremkixe.md)  
