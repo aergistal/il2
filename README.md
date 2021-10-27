@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.604 (21/09/2021)  
+Version: 4.605 (27/10/2021)  
 
 ## Planes
 
@@ -65,6 +65,10 @@ Version: 4.604 (21/09/2021)
 ### Bf 110 G-2
 [Specifications](planes/bf110g2.md)  
 ![bf110g2](images/planes/bf110g2.png)  
+
+### Breguet 14.B2
+[Specifications](planes/breguet14.md)  
+![breguet14](images/planes/breguet14.png)  
 
 ### Bristol F2B (F.II)
 [Specifications](planes/bristolf2bf2.md)  
