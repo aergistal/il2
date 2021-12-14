@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.605 (27/10/2021)  
+Version: 4.701 (08/12/2021)  
 
 ## Planes
 
@@ -81,6 +81,10 @@ Version: 4.605 (27/10/2021)
 ### C-47A
 [Specifications](planes/c47a.md)  
 ![c47a](images/planes/c47a.png)  
+
+### DFW C.V
+[Specifications](planes/dfwc5.md)  
+![dfwc5](images/planes/dfwc5.png)  
 
 ### Fokker D.VII
 [Specifications](planes/fokkerd7.md)  
