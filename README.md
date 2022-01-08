@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.701 (08/12/2021)  
+Version: 4.702 (28/12/2021)  
 
 ## Planes
 
@@ -221,6 +221,10 @@ Version: 4.701 (08/12/2021)
 ### P-47D-28
 [Specifications](planes/p47d28.md)  
 ![p47d28](images/planes/p47d28.png)  
+
+### P-51B-5
+[Specifications](planes/p51b5.md)  
+![p51b5](images/planes/p51b5.png)  
 
 ### P-51D-15
 [Specifications](planes/p51d15.md)  
