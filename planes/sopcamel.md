@@ -51,7 +51,7 @@ minimal consumption (cruise) — 5 h.
   
 Armament:  
 Forward firing: 2хVickers Mk.I 7.69, 500 rounds per barrel.  
-Bomboad: 36kg  
+Bomb load: 36kg  
   
 References:  
 1) Sopwith Aircraft Blueprints, WWI Aero Magazine.  

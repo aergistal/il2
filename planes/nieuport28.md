@@ -61,13 +61,13 @@ Additional mass: 1 kg
 
 **Balloon guns**  
 Twin Vickers "Balloon" guns  
-Ammo: 400 of 11.43mm rounds  
+Ammo: 300 of 11.43mm rounds  
 Projectile weight: 17,5 g  
 Muzzle velocity: 610 m/s  
 Guns weight: 26 kg  
-Ammo weight: 32 kg  
+Ammo weight: 24 kg  
 Rate of fire: 600 rpm  
-Total additional weight of weapon modification: 58 kg
+Total additional weight of weapon modification: 50 kg
 
 **Sideslip Indicator**  
 Sideslip indicator (ball-type)  

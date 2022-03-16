@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.702 (28/12/2021)  
+Version: 4.703 (15/03/2022)  
 
 ## Planes
 
@@ -122,6 +122,10 @@ Version: 4.702 (28/12/2021)
 [Specifications](planes/fw190d9.md)  
 ![fw190d9](images/planes/fw190d9.png)  
 
+### Gotha G.V
+[Specifications](planes/gothag5.md)  
+![gothag5](images/planes/gothag5.png)  
+
 ### Halberstadt CL.II
 [Specifications](planes/halberstadtcl2.md)  
 ![halberstadtcl2](images/planes/halberstadtcl2.png)  
@@ -129,6 +133,10 @@ Version: 4.702 (28/12/2021)
 ### Halberstadt CL.II 200hp
 [Specifications](planes/halberstadtcl2au.md)  
 ![halberstadtcl2au](images/planes/halberstadtcl2au.png)  
+
+### Handley Page O/400
+[Specifications](planes/handleypage400.md)  
+![handleypage400](images/planes/handleypage400.png)  
 
 ### He 111 H-16
 [Specifications](planes/he111h16.md)  
@@ -173,6 +181,10 @@ Version: 4.702 (28/12/2021)
 ### Ju 88 A-4
 [Specifications](planes/ju88a4.md)  
 ![ju88a4](images/planes/ju88a4.png)  
+
+### Ju 88 C-6
+[Specifications](planes/ju88c6.md)  
+![ju88c6](images/planes/ju88c6.png)  
 
 ### La-5FN ser.2
 [Specifications](planes/la5fns2.md)  
