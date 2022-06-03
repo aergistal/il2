@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.703 (15/03/2022)  
+Version: 4.705 (31/05/2022)  
 
 ## Planes
 
@@ -210,6 +210,10 @@ Version: 4.703 (15/03/2022)
 [Specifications](planes/mig3s24.md)  
 ![mig3s24](images/planes/mig3s24.png)  
 
+### Mosquito F.B. Mk.VI ser.2
+[Specifications](planes/mosquitofbmkvis2.md)  
+![mosquitofbmkvis2](images/planes/mosquitofbmkvis2.png)  
+
 ### Nieuport 28.C1
 [Specifications](planes/nieuport28.md)  
 ![nieuport28](images/planes/nieuport28.png)  
@@ -269,6 +273,10 @@ Version: 4.703 (15/03/2022)
 ### Sopwith Dolphin
 [Specifications](planes/sopdolphin.md)  
 ![sopdolphin](images/planes/sopdolphin.png)  
+
+### Sopwith Triplane
+[Specifications](planes/soptriplane.md)  
+![soptriplane](images/planes/soptriplane.png)  
 
 ### SPAD 13.C1
 [Specifications](planes/spad13.md)  
