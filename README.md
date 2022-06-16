@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.705 (31/05/2022)  
+Version: 4.706 (15/06/2022)  
 
 ## Planes
 
@@ -18,9 +18,17 @@ Version: 4.705 (31/05/2022)
 [Specifications](planes/albatrosd5.md)  
 ![albatrosd5](images/planes/albatrosd5.png)  
 
+### Ar 234 B-2
+[Specifications](planes/ar234b2.md)  
+![ar234b2](images/planes/ar234b2.png)  
+
 ### B-25D
 [Specifications](planes/b25draf.md)  
 ![b25draf](images/planes/b25draf.png)  
+
+### B-26B-55
+[Specifications](planes/b26b55.md)  
+![b26b55](images/planes/b26b55.png)  
 
 ### Bf 109 E-7
 [Specifications](planes/bf109e7.md)  
