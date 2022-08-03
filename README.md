@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 4.706 (15/06/2022)  
+Version: 4.707 (02/08/2022)  
 
 ## Planes
 
@@ -213,6 +213,10 @@ Version: 4.706 (15/06/2022)
 ### Me 262 A
 [Specifications](planes/me262a.md)  
 ![me262a](images/planes/me262a.png)  
+
+### Me 410 A-1
+[Specifications](planes/me410a1.md)  
+![me410a1](images/planes/me410a1.png)  
 
 ### MiG-3 ser.24
 [Specifications](planes/mig3s24.md)  
