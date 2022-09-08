@@ -179,6 +179,14 @@ Clipped Wing
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h
 
+**300-liter Drop Tank**  
+300-liter jettisonable fuel tank  
+Empty mass: 50 kg  
+Full mass: 275 kg  
+Fuel capacity: 300 l  
+Estimated speed loss before drop: 30 km/h  
+Estimated speed loss after drop: 10 km/h
+
 **Merlin 70 engine**  
 Merlin 70 engine.   
 Additional mass: 0 kg  
