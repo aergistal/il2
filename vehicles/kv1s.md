@@ -153,3 +153,6 @@ Muzzle velocity 950 m/s, armour penetration at point blank range 129 mm.
 500 m: armour penetration 90 mm, velocity 741 m/s, drop -1.7 m.  
 1000 m: armour penetration 60 mm, velocity: 558 m/s, drop -8.0 m.  
 2000 m: armour penetration 24 mm, velocity: 295 m/s, drop -53.3 m.
+
+**Removed Fuel Tank**  
+The external rear-mounted fuel tank was commonly removed on the Eastern front.

@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.001 (07/09/2022)  
+Version: 5.002 (11/10/2022)  
 
 ## Planes
 
@@ -347,6 +347,10 @@ Version: 5.001 (07/09/2022)
 ![yak9ts1](images/planes/yak9ts1.png)  
 
 ## Vehicles
+
+### Churchill IV
+[Specifications](vehicles/churchill-iv.md)  
+![churchill-iv](images/vehicles/churchill-iv.png)  
 
 ### GAZ-MM 72-K
 [Specifications](vehicles/gaz-mm-72k.md)  
