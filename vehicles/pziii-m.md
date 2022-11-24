@@ -99,6 +99,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 ## Modifications
 
+**Smoke Mortars**  
+Installation of 6 external single-shot smoke mortars.
+
 **High-Explosive Shells**  
 5 cm Sprgr. 38  
   

@@ -133,6 +133,9 @@ Muzzle velocity: 600 m/s.
 1000 m: velocity 369 m/s, drop -19.4 m.  
 2000 m: velocity 273 m/s, drop -114.6 m.
 
+**Smoke Mortars**  
+Installation of 6 external single-shot smoke mortars.
+
 **Armour Piercing High Explosive Shells**  
 8,8 cm Pzgr. 39  
   

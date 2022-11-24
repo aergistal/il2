@@ -125,6 +125,9 @@ Muzzle velocity 925 m/s, armour penetration at point blank range 158 mm.
 **Removed additional armor plates**  
 Removed 5 mm Schürzen that were attached to the hull. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.
 
+**Smoke Mortars**  
+Installation of 6 external single-shot smoke mortars.
+
 **Sub-Caliber Armour Piercing Shells**  
 7,5 cm Pzgr. 40/42  
   

@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.002 (11/10/2022)  
+Version: 5.003 (11/22/2022)  
 
 ## Planes
 
@@ -391,6 +391,10 @@ Version: 5.002 (11/10/2022)
 ### Sd.Kfz.184
 [Specifications](vehicles/sdkfz184.md)  
 ![sdkfz184](images/vehicles/sdkfz184.png)  
+
+### StuG III Ausf.G
+[Specifications](vehicles/stugiii-g.md)  
+![stugiii-g](images/vehicles/stugiii-g.png)  
 
 ### SU-122 UZTM (1943)
 [Specifications](vehicles/su122.md)  
