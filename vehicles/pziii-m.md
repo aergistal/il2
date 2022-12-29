@@ -10,6 +10,8 @@ The most apparent visual difference was the addition of side armor plates, "Sch√
   
 It should be noted that the front armor was relatively thick thanks to the additional armor plates mounted there in spaced configuration.  
   
+The tank could be equipped with six mortars mounted on the turret and designed to shoot smoke grenades at a distance of about 80 meters.  
+  
 APCR rounds fired from 50 mm KwK 39/L60 gun could penetrate the armor of Soviet medium and heavy tanks at a distance up to 500 m, while regular APHE rounds could be used against sides of medium tanks up to 1 km.  
   
 Total 517 tanks of this modification were produced since September 1942 until February 1943.  
@@ -100,7 +102,10 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 ## Modifications
 
 **Smoke Mortars**  
-Installation of 6 external single-shot smoke mortars.
+Installation of 6 external single-shot smoke mortars.  
+Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
+Range: 80 m  
+Smoking time: 3 min
 
 **High-Explosive Shells**  
 5 cm Sprgr. 38  

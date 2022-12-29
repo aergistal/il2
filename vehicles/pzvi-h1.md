@@ -8,6 +8,8 @@ Developed by Henschel company in 1942, first combat action took place on Leningr
   
 The tank was famous for its powerful armour and 'square' look. Its wheels are placed in a checkered pattern to optimize ground pressure and provide additional protection for the hull sides, but this made the chassis repair complicated and often lead to a loss of a damaged tank.  
   
+The tank could be equipped with six mortars mounted on the turret and designed to shoot smoke grenades at a distance of about 80 meters.  
+  
 The main trump card of this machine was its powerful 88-mm long barelled gun KwK 36 developed on the base of the anti-air gun Flak 18/36. This weapon allowed Tigers to destroy enemy tanks at large distances - their firepower was unmatched on the battlefield until IS-2 heavy tanks appeared.  
   
 Because of its advanced and complex design, Tigers were very expensive to produce (800 000 Reichsmarks, about two times more of the most other tanks of that time).  
@@ -134,7 +136,10 @@ Muzzle velocity: 600 m/s.
 2000 m: velocity 273 m/s, drop -114.6 m.
 
 **Smoke Mortars**  
-Installation of 6 external single-shot smoke mortars.
+Installation of 6 external single-shot smoke mortars.  
+Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
+Range: 80 m  
+Smoking time: 3 min
 
 **Armour Piercing High Explosive Shells**  
 8,8 cm Pzgr. 39  

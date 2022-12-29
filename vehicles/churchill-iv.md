@@ -16,7 +16,7 @@ The main armament of the tank was the Ordnance Quick-Firing (QF) 6-pounder 7 cwt
   
 From a technical point of view, the Churchill’s track assembly was quite peculiar and somewhat reminiscent of the famous British diamond-shaped pioneer tanks of the First World War, with the tracks covering the hull from above. This made it possible to include additional hatches along the sides that made it easier to abandon the vehicle in an emergency. Each of the 11 road wheels on either side of the tank had an individual spring suspension. However, only 6 middle ones of 11 were under load in the normal position. The hull armor was complex, comprising many rolled-steel armor parts assembled on the frame with rivets and bolts. The key feature of the Churchill IV, which distinguishes it from the previous modifications, was the turret made of a single cast part with a thin-walled spare parts box attached to its rear. The gun mantlet featured an original “internal” design with no parts protruding from the turret.  
   
-The tank was also equipped with a 2-inch mortar fixed on the roof of the turret, on the loader’s side. Normally, it was intended for remote smoke screen deployment with 2-inch smoke grenades fired at a distance of about 400 meters in the direction same as that of the tank gun. In the reality of the Eastern Front, the Red Army often used Soviet-produced 50-mm high-explosive fragmentation rounds as ammunition for 2-inch English mortars. Besides the mortar, the tank was equipped with two pyrotechnic smoke dischargers mounted on the rear. They allow the tank to deploy a smoke screen for a minute and a half.  
+The tank was also equipped with a 2-inch mortar fixed on the roof of the turret, on the loader’s side. Normally, it was intended for remote smoke screen deployment with 2-inch smoke grenades fired at a distance of about 140 meters in the direction same as that of the tank gun. In the reality of the Eastern Front, the Red Army often used Soviet-produced 50-mm high-explosive fragmentation rounds as ammunition for 2-inch English mortars. The firing range for such a mine was about 410 meters. Besides the mortar, the tank was equipped with two pyrotechnic smoke dischargers mounted on the rear. They allow the tank to deploy a smoke screen for a minute and a half.  
   
 <b><u>Unladen weight:</u></b> 40500 kg.  
 Length: 7.6 m.  
@@ -116,7 +116,7 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
   
 Mass 850 g, explosives mass 90 g.  
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.  
-Range 400m. Muzzle velocity 74 m/s.
+Range 410m.
 
 **Removed Bow Fenders**  
 The track bow fenders of Churchill tanks on the Eastern front were often removed.

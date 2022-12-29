@@ -8,6 +8,8 @@ Developed by MAN company in 1942, it first saw action in the Kursk battle in 194
   
 For the better distribution of weight and protecting the sides, its wheels were positioned in a checkerboard order, making the running gear repairs very difficult - in combat conditions its damage often led to a loss of tank. The compression stroke of the suspension was very large and it was significantly softer than on other tanks, resulting in traveling comfort. One suspension unit included two torsion bars (32 bars in total). The reliability of these machines, especially at the beginning of their production, was abysmal - only 4 of 174 were sent to the front line units by April 1943, the others were returned to the factories of origin for reworking.  
   
+The tank could be equipped with six mortars mounted on the turret and designed to shoot smoke grenades at a distance of about 80 meters.  
+  
 The main gun 75 mm KwK 42 had a high muzzle velocity and could penetrate the armor of any enemy tank at significant distances.  
   
 The frontal armor protection was good, but the sides, rear and especially the bottom and roof armor of the tank was poor and provided inadequate protection from enemy tanks and guns. To improve the weak side protection, additional thin armor sheets (Schürzen) were installed.  
@@ -126,7 +128,10 @@ Muzzle velocity 925 m/s, armour penetration at point blank range 158 mm.
 Removed 5 mm Schürzen that were attached to the hull. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.
 
 **Smoke Mortars**  
-Installation of 6 external single-shot smoke mortars.
+Installation of 6 external single-shot smoke mortars.  
+Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
+Range: 80 m  
+Smoking time: 3 min
 
 **Sub-Caliber Armour Piercing Shells**  
 7,5 cm Pzgr. 40/42  

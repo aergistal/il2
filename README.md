@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.003 (11/22/2022)  
+Version: 5.004 (21/12/2022)  
 
 ## Planes
 
@@ -285,6 +285,10 @@ Version: 5.003 (11/22/2022)
 ### Sopwith Dolphin
 [Specifications](planes/sopdolphin.md)  
 ![sopdolphin](images/planes/sopdolphin.png)  
+
+### Sopwith Snipe
+[Specifications](planes/sopsnipe.md)  
+![sopsnipe](images/planes/sopsnipe.png)  
 
 ### Sopwith Triplane
 [Specifications](planes/soptriplane.md)  

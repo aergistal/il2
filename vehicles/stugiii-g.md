@@ -8,6 +8,8 @@ This self-propelled assault gun Sturmgeschütz III Ausführung G was armed with 
   
 The most apparent visual difference was the addition of side armor plates, "Schürzen", which were attached to the hull sides. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armour destabilized it or caused its fragmentation before it could hit the main armored hull.  
   
+The tank could be equipped with six mortars mounted on the turret and designed to shoot smoke grenades at a distance of about 80 meters.  
+  
 The long-barrelled 75 mm gun can reliably engage Soviet tanks at distances up to 1 km. However, the artillery periscopic gunsight was less convenient for quick direct firing than telescopic gunsights installed on tanks.  
   
 Late StuG III modifications were equipped by infantry MG34 machinegun stored in the fighting compartment. To fire it, the loader had to get out of his hatch, raise the armored shield and set the machinegun up in one of the two positions - for firing at air or ground targets. Six one-shot smoke mortars could be also installed.  
@@ -81,7 +83,7 @@ Bullet mass: 11.5 g.
 Muzzle velocity: 855 m/s.  
 Armour pentration at 100 m: 11 mm.  
 Rate of fire: 900 rounds per minute.  
-12 magazines, 50 rounds per magazine (60 rounds).  
+12 magazines, 50 rounds per magazine (600 rounds).  
   
 <b><u>Gunsights:</u></b>  
 Sfl ZF 1a gunner periscopic sight, field of view 8°.  
@@ -108,7 +110,10 @@ Muzzle velocity 550 m/s.
 2000 m: velocity 405 m/s, drop -80.9 m.
 
 **Smoke Mortars**  
-Installation of 6 external single-shot smoke mortars.
+Installation of 6 external single-shot smoke mortars.  
+Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
+Range: 80 m  
+Smoking time: 3 min
 
 **High Explosive Anti-Tank Shells**  
 7,5 cm Gr.38 HL/C  
