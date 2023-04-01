@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.004 (21/12/2022)  
+Version: 5.101 (29/03/2023)  
 
 ## Planes
 
@@ -317,6 +317,10 @@ Version: 5.004 (21/12/2022)
 ### Spitfire Mk.XIV
 [Specifications](planes/spitfiremkxiv.md)  
 ![spitfiremkxiv](images/planes/spitfiremkxiv.png)  
+
+### Spitfire Mk.XIVe
+[Specifications](planes/spitfiremkxive.md)  
+![spitfiremkxive](images/planes/spitfiremkxive.png)  
 
 ### Tempest Mk.V ser.2
 [Specifications](planes/tempestmkvs2.md)  
