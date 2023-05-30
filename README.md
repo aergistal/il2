@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.101 (29/03/2023)  
+Version: 5.102 (25/04/2023)  
 
 ## Planes
 
@@ -57,6 +57,10 @@ Version: 5.101 (29/03/2023)
 ### Bf 109 G-6
 [Specifications](planes/bf109g6.md)  
 ![bf109g6](images/planes/bf109g6.png)  
+
+### Bf 109 G-6AS
+[Specifications](planes/bf109g6as.md)  
+![bf109g6as](images/planes/bf109g6as.png)  
 
 ### Bf 109 G-6 Late
 [Specifications](planes/bf109g6late.md)  
@@ -273,6 +277,10 @@ Version: 5.101 (29/03/2023)
 ### Pfalz D.IIIa
 [Specifications](planes/pfalzd3a.md)  
 ![pfalzd3a](images/planes/pfalzd3a.png)  
+
+### SSW D.IV
+[Specifications](planes/schuckertdiv.md)  
+![schuckertdiv](images/planes/schuckertdiv.png)  
 
 ### S.E.5a
 [Specifications](planes/se5a.md)  
