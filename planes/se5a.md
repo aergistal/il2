@@ -10,6 +10,7 @@ The plane’s first trial flight was performed in January 1917, and it saw actio
   
 During the aircraft’s service, the poor reliability of the Hispano-Suiza engine became apparent; as a result, the plane was also fitted with the more reliable Wolseley Viper engine (license-built by the British Hispano-Suiza factories). The landing gear structure had to be redesigned after frequent reports were made of it breaking upon landing. This involved changing its shape (metal welded tubes were replaced by a wooden frame). The aircraft participated in battles in Europe on the Western Front and in Macedonia and also in Mesopotamia and Palestine.  
   
+  
 Engine V8 Wolseley Viper 200 HP  
   
 Dimensions  
@@ -24,13 +25,6 @@ Takeoff: 886 kg
 Fuel capacity: 148 l  
 Oil capacity: 16 l  
   
-Climb rate  
-1000 m —  2 min. 52 sec.  
-2000 m —  6 min. 15 sec.  
-3000 m — 10 min. 41 sec.  
-4000 m — 17 min. 03 sec.  
-5000 m — 28 min. 01 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 223 km/h  
 1000 m — 209 km/h  
@@ -39,6 +33,13 @@ sea level — 223 km/h
 4000 m — 165 km/h  
 5000 m — 150 km/h  
 6000 m — 133 km/h  
+  
+Climb rate  
+1000 m —  2 min. 52 sec.  
+2000 m —  6 min. 15 sec.  
+3000 m — 10 min. 41 sec.  
+4000 m — 17 min. 03 sec.  
+5000 m — 28 min. 01 sec.  
   
 Service ceiling 5500 m  
   

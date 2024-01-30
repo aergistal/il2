@@ -8,6 +8,7 @@ The Gotha G.V was a subsequent development of the Gotha G.IV. Combat experience 
 The G.V was used to bomb strategically important ground targets and cities such as London. By war’s end, the plane was being employed as a night bomber.  
 With a maximum bomb load, the plane was stable in flight, but on returning to base, it exhibited minimum stability and an unpleasant heaviness of the tail fin. To overcome these flaws, the tail gunner would sit close to the pilot; later on, the wings were simply moved rearwards by 20 cm. Upon landing, the plane had a tendency to yaw until it made full contact with ground. In February 1918, additional gears were fitted that were meant to make landings safer and to avoid nosing over. The aircraft took part in battles over the Western Front.  
   
+  
 Engine: 2 x inline 6 cyl. Mercedes D. IVa  
 Power: 260 hp  
   

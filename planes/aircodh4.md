@@ -14,6 +14,7 @@ Reported to be pleasant to fly and easy to operate, the crews loved it because o
   
 Produced by Airco, F.W. Berwick and Co, Glendower Aircraft Company, Palladium Autocars, Vulcan Motor and Engineering, and the Westland Aircraft Works in the UK, a total of 1,449 aircraft were built in the UK for the RFC and RNAS through the end of the war.  
   
+  
 Engine: V-type 12 cyl. Rolls Royce Eagle VII  
 Power: 275 hp (320hp at 1800 RPM)  
   

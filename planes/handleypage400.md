@@ -8,6 +8,7 @@ This aircraft was the next step in improving of HP O/100 design. Two fuel tanks 
 This aircraft appeared on the frontline in September 1917. These planes were used to bomb railway stations, supply depots, factories and ports during night. Pilots mentioned that the plane handled nicely, was easy on takeoff, controls were a little stiff and felt a little delayed.  
 Aircraft of this type participated in combat on Western and Palestinian fronts.  
   
+  
 Engine: 2 x inline 12 cyl. Eagle VIII  
 Power: 360 hp  
   

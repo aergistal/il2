@@ -16,6 +16,7 @@ It is not exactly known exactly how many of the CL.II were built, but the produc
   
 Mercedes D.IIIaü engine had improved performance at higher altitudes, but setting the throttle to full at low altitudes could cause detonation in the engine.  
   
+  
 Engine: 6—cyl. inline Mercedes D.IIIaü  
 Power: 200 hp  
   

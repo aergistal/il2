@@ -8,6 +8,7 @@ The SPAD S.XIII was designed as an improved version of the SPAD S.VII. While app
 The S.XIII first appeared at the front in late summer-early fall 1917, being initially supplied to French fighter squadrons. It was mainly used for engaging enemy planes, escorting bombers, aerial mapping, and recon; rarely was it used for the bombing of ground targets near the front lines.  
 French pilots were eager to receive the S.XIII. The second machine gun provided increased firepower, and the new engine allowed it to fly and climb faster than its predecessors. Its controls remained effective even at high altitudes. The only remaining drawback, owing to its thin wing profile, was its decreased sensitivity of controls at low speeds, which often resulted in a stall. In a dive and level flight, the SPAD S.XIII was one of the fastest aircraft of its time. Pilots who flew it remarked, “It dives faster than the wind!” It participated in battles on all fronts during WWI. French, British, American and Italian units were all equipped with the type.  
   
+  
 Engine  
 V8 Hispano—Suiza 8Ba 220 hp  
   
@@ -23,15 +24,6 @@ Takeoff: 820 kg
 Fuel capacity: 113,5 l  
 Oil capacity: 17 l  
   
-Climb rate  
-1000 m — 2 min. 32 sec.  
-2000 m — 5 min. 10 sec.  
-3000 m — 8 min. 24 sec.  
-4000 m — 12 min. 30 sec.  
-5000 m — 18 min. 01 sec.  
-6000 m — 26 min. 24 sec.  
-7000 m — 44 min. 24 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 219 km/h  
 1000 m — 206 km/h  
@@ -41,6 +33,15 @@ sea level — 219 km/h
 5000 m — 152 km/h  
 6000 m — 137 km/h  
 7000 m — 119 km/h  
+  
+Climb rate  
+1000 m — 2 min. 32 sec.  
+2000 m — 5 min. 10 sec.  
+3000 m — 8 min. 24 sec.  
+4000 m — 12 min. 30 sec.  
+5000 m — 18 min. 01 sec.  
+6000 m — 26 min. 24 sec.  
+7000 m — 44 min. 24 sec.  
   
 Service ceiling 7000 m  
   

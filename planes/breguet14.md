@@ -10,6 +10,7 @@ The first series of planes entered service with the French Army Corps in May 191
   
 The French Army employed it in a variety of ways, including bombing, aerial supply, artillery spotting, aerial mapping of the front lines, recon, and dropping of propaganda leaflets. Its main bombing targets were railway junctions, German frontline fortifications, and targets in the immediate battle area. Pilots noted its speed and ability to take punishment from enemy fire. The Breguet 14 participated in battles on the Western, Eastern and Italian fronts.  
   
+  
 Engine: V-type 12 cyl. Renault 12 Fcx  
 Power: 310 hp (1600 RPM)  
   

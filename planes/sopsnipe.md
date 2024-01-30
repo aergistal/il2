@@ -12,6 +12,7 @@ Compared to the much-loved Camel, the Snipe won a cautious welcome from the pilo
   
 Only a handful of squadrons got the new aircraft in time to use it on the Western Front before the war ended: No.43 Squadron RAF, No.4 Squadron AFC and No.208 Squadron RAF. The Snipe saw its first action on September 26th, 1918.  
   
+  
 Engine  
 Bentley B.R.2 rotary 9 cyl., 234 h.p.  
   
@@ -27,14 +28,6 @@ Takeoff weight: 905 kg
 Fuel capacity: 176 l  
 Oil capacity: 33 l  
   
-Climb rate  
-1000 m — 2 min. 31 sec  
-2000 m — 5 min. 24 sec.  
-3000 m — 8 min. 49 sec.  
-4000 m — 13 min. 00 sec.  
-5000 m — 18 min. 31 sec.  
-6000 m — 28 min. 23 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 197 km/h  
 1000 m — 188 km/h  
@@ -43,6 +36,14 @@ sea level — 197 km/h
 4000 m — 156 km/h  
 5000 m — 143 km/h  
 6000 m — 116 km/h  
+  
+Climb rate  
+1000 m — 2 min. 31 sec  
+2000 m — 5 min. 24 sec.  
+3000 m — 8 min. 49 sec.  
+4000 m — 13 min. 00 sec.  
+5000 m — 18 min. 31 sec.  
+6000 m — 28 min. 23 sec.  
   
 Service ceiling 6100 m  
   

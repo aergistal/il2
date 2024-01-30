@@ -90,15 +90,15 @@ Wing surface: 57.0 m²
 Combat debut: spring 1942  
   
 Operation features:  
-- Engine has no manifold pressure automatic governor. For this reason, manifold pressure not only depends on throttle position, but also from RPM and altitude. This requires additional checking of manifold pressure to not cause engine damage.  
-- Engine is equipped with an automatic fuel mixture control which maintains optimal mixture if mixture lever is set to Full Rich (100%25) position. To use automatic mixture leaning to reduce fuel consumption during flight it is necessary to set mixture lever to Cruising Lean (50%25) position. To stop the engine mixture lever should be set to the Cut Off (0%25) position.  
+- The engine has no manifold pressure automatic governor. For this reason, manifold pressure not only depends on throttle position, but also from RPM and altitude. This requires additional checking of manifold pressure to not cause engine damage.  
+- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture if mixture lever is set to Full Rich (100%25) position. To use automatic mixture leaning to reduce fuel consumption during flight it is necessary to set mixture lever to Cruising Lean (50%25) position. To stop the engine mixture lever should be set to the Cut Off (0%25) position.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Oil radiators shutters and engine cowl outlet shutters are manually operated.  
-- Airplane has trimmers for all flight-controls: pitch, roll and yaw.  
+- The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 45°.  
-- Airplane has independent left and right hydraulic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
-- Airplane is equipped with upper formation lights.  
-- Engine has a two-stage mechanical supercharger which must be manually switched at 3350 m (11000 ft) altitude.  
+- The aircraft has independent left and right hydraulic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
+- The aircraft is equipped with upper formation lights.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 3350 m (11000 ft) altitude.  
 - The nose gear orients by itself, doesn't have brakes and can't be controlled.  
 - There are white and red signal lamps in the tail: the white one is lit while bomb doors are open and the red one lights up for 5 seconds when bombs are released.  
-- Airplane is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.
+- The aircraft is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.

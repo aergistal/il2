@@ -93,16 +93,17 @@ Combat debut: Autumn 1940
   
 Operation features:  
 - The engine is equipped with the two-stage mechanical supercharger which should be manually switched at 13000ft altitude.  
-- Engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
+- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
 - Engine RPM has an automatic governor that controls the propeller pitch to maintain the required RPM.  
 - Water and oil temperatures are controlled manually by adjusting the radiator shutter.  
-- Aircraft is equipped with elevator and rudder trimmers.  
+- The aircraft has a fuel gauge which shows remaining fuel in fuel tanks depending on switch position. In game the fuel indicator switch changes by pressing (RShift+I).  
+- The aircraft is equipped with elevator and rudder trimmers.  
 - Landing flaps have hydraulic actuators and can be extended to any angle up to 80°. The speed with the extended flaps is limited to 120 mph.  
-- Airplane tail wheel rotates freely and does not have a lock.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
+- The aircraft tail wheel rotates freely and does not have a lock.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
 - It is impossible to open the canopy at high speeds because of the ram air, but there is an emergency jettison handle for bailing out.  
-- Airplane is equipped with upper and bottom formation lights which can be turned on simultaneously or independently.  
+- The aircraft is equipped with upper and bottom formation lights which can be turned on simultaneously or independently.  
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - The gunsight has a sliding sun-filter.  
 - When bombs are installed there is a salvo controller, it has two release modes: single drop or drop two in a salvo.  

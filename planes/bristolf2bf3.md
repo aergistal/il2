@@ -24,6 +24,7 @@ While excelling as a fighter, the Bristol was also capable of being a good groun
 Being a very successful aircraft, Bristol Fighters were used by RAF squadrons through the 1920s.  
 A total of 3,101 Bristol Fighters were produced up until the end of 1918.  
   
+  
 Engine: V-type 12 cyl. Rolls Royce Falcon III  
 Power: 285 hp (2200 RPM)  
   

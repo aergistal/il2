@@ -82,6 +82,7 @@ Operation features:
 - The engine mixture control is automatic when the mixture lever is set to NORMAL (1/2) position. It should be set to START (forward, throttle lever movement will be limited by 1/10) position when starting the engine and to CUT-OUT position (back) to stop it.  
 - The engine has an automatic RPM governor that controls the propeller pitch to maintain the required RPM.   
 - Water and oil temperatures are controlled manually by adjusting the radiator shutters.  
+- The aircraft has a fuel gauge which shows remaining fuel in fuel tanks depending on switch position. In game the fuel indicator switch changes by pressing (RShift+I).  
 - The aircraft has pitch and yaw flight-control trimmers.  
 - Landing flaps have hydraulic actuators and can be extended to any angle up to 80°. The speed with the extended flaps is limited to 160 mph.  
 - The airplane tail wheel rotates freely and does not have a lock.  

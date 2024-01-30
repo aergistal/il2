@@ -14,6 +14,7 @@ Because of its good performance and ability to hold itself against enemy fighter
   
 It is not exactly known exactly how many of the CL.II were built, but the production orders of 900 machines correspond to six Idflieg production orders for Halberstadter Flugzeugwerke, plus around of 300 machines by Bayerische Flugzeug Werke AG (in two orders), so it\'s approximately 1200 machines in total.  
   
+  
 Engine: 6—cyl. inline Mercedes D.IIIa  
 Power: 180 hp  
   

@@ -12,6 +12,7 @@ Initial delivery of the SPAD S.VII was slow due to difficulties with the product
   
 Over 50 French squadrons were ultimately equipped with the SPAD S.VII, in addition to various Belgian, Italian, Russian, and American units. Owing to the type\'s sturdiness and excellent reputation as a fighter and the mechanical problems of the SPAD S.XIII, the SPAD S.VII remained in combat service to the end of the war. It remained in the post-war inventories of many nations, and in France, it remained the standard test aircraft for pilot students until 1928.  
   
+  
 Engine  
 V8 Hispano—Suiza 8Ab 180 hp (1540RPM)  
   
@@ -27,12 +28,6 @@ Takeoff: 705 kg
 Fuel capacity: 105 l  
 Oil capacity: 11 l  
   
-Climb rate  
-1000 m — 2 min. 16 sec.  
-2000 m — 4 min. 48 sec.  
-3000 m — 8 min. 1 sec.  
-4000 m — 12 min. 28 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 219 km/h  
 1000 m — 206 km/h  
@@ -40,6 +35,12 @@ sea level — 219 km/h
 3000 m — 177 km/h  
 4000 m — 162 km/h  
 5000 m — 145 km/h  
+  
+Climb rate  
+1000 m — 2 min. 16 sec.  
+2000 m — 4 min. 48 sec.  
+3000 m — 8 min. 1 sec.  
+4000 m — 12 min. 28 sec.  
   
 Service ceiling 6553 m  
   

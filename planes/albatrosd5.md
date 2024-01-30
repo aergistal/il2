@@ -13,6 +13,7 @@ Total of 1650 Albatros D.V and D.Va aircraft were built at Albatros Werke and Os
   
 The Albatros D.Va was mainly used against enemy aircraft. Pilots noted great visibility, handling, sufficient speed and rate of climb. The new engine improved the aircraft’s high altitude flight characteristics. However, pilots had no confidence in the new low wing attachment and refused to perform steep dives in combat. Despite this, veteran pilots continued to increase their combat scores, and employing large numbers of the aircraft in sorties became more frequent. This model participated in battles on the Western Front and the Palestinian Front.  
   
+  
 Engine 6—cyl. inline Mercedes D. IIIa 180 HP  
   
 Dimensions  
@@ -27,13 +28,6 @@ Takeoff: 915 kg
 Fuel capacity: 103 l  
 Oil capacity: 9 l  
   
-Climb rate  
-1000 m —  3 min. 58 sec.  
-2000 m —  8 min. 33 sec.  
-3000 m — 14 min. 22 sec.  
-4000 m — 22 min. 29 sec.  
-5000 m — 36 min. 41 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 169 km/h  
 1000 m — 161 km/h  
@@ -42,6 +36,13 @@ sea level — 169 km/h
 4000 m — 136 km/h  
 5000 m — 125 km/h  
 6000 m — 109 km/h  
+  
+Climb rate  
+1000 m —  3 min. 58 sec.  
+2000 m —  8 min. 33 sec.  
+3000 m — 14 min. 22 sec.  
+4000 m — 22 min. 29 sec.  
+5000 m — 36 min. 41 sec.  
   
 Service ceiling 5400 m  
   

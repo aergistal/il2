@@ -12,6 +12,7 @@ The first field tests were conducted by No. 1 (Naval) Squadron in June 1916, whi
   
 Pilots reported that the plane exhibited an outstanding climb rate, high speed and fair manoeuvrability. They noted that the controls were light and effective, and the rudder was well-balanced. During the summer of 1917, No. 10 (Naval) Squadron’s “Black Flight” claimed 87 German aircraft destroyed for the loss of just one Triplane. These aircraft were also employed by the French Navy, and in 1917, one was transferred to Russia for evaluation. The Sopwith Triplane was deployed to the Western Front and Macedonia.  
   
+  
 Engine  
 Clerget 9B 130 hp  
   
@@ -27,13 +28,6 @@ Takeoff: 699 kg
 Fuel capacity: 87 l  
 Oil capacity: 18 l  
   
-Climb rate  
-1000 m —  3 min. 05 sec.  
-2000 m —  6 min. 46 sec.  
-3000 m — 11 min. 12 sec.  
-4000 m — 17 min. 06 sec.  
-5000 m — 25 min. 46 sec.  
-  
 Maximum airspeed  
 sea level — 181 km/h  
 1000 m — 170 km/h  
@@ -42,6 +36,13 @@ sea level — 181 km/h
 4000 m — 138 km/h  
 5000 m — 125 km/h  
 6000 m — 106 km/h  
+  
+Climb rate  
+1000 m —  3 min. 05 sec.  
+2000 m —  6 min. 46 sec.  
+3000 m — 11 min. 12 sec.  
+4000 m — 17 min. 06 sec.  
+5000 m — 25 min. 46 sec.  
   
 Service ceiling 6300 m  
   

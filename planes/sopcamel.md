@@ -26,14 +26,6 @@ Takeoff weight : 700 kg
 Fuel capacity : 168 l  
 Oil capacity : 20 l  
   
-Climb rate  
-1000 m — 2 min. 37 sec  
-2000 m — 5 min. 46 sec.  
-3000 m — 9 min. 40 sec.  
-4000 m — 14 min. 45 sec.  
-5000 m — 21 min. 41 sec.  
-6000 m — 32 min. 17 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 195 km/h  
 1000 m — 183 km/h  
@@ -42,6 +34,14 @@ sea level — 195 km/h
 4000 m — 145 km/h  
 5000 m — 132 km/h  
 6000 m — 117 km/h  
+  
+Climb rate  
+1000 m — 2 min. 37 sec  
+2000 m — 5 min. 46 sec.  
+3000 m — 9 min. 40 sec.  
+4000 m — 14 min. 45 sec.  
+5000 m — 21 min. 41 sec.  
+6000 m — 32 min. 17 sec.  
   
 Service ceiling 6700 m  
   

@@ -91,17 +91,17 @@ Combat debut: Spring 1943
   
 Operation features:  
 - The engine is equipped with the two speed mechanical supercharger which does not require manual control. It can be switched to the low gear manually.  
-- Engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
+- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
 - Engine RPM has an automatic governor that controls the propeller pitch to maintain the required RPM.  
 - Propellers have a feathering system which should be activated in case of engine damage to reduce drag of the propeller in auto-rotation.  
 - Water and oil temperatures are controlled manually by adjusting the radiator shutter.  
-- Airplane has trimmers for all flight-controls: pitch, roll and yaw.  
+- The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - Landing flaps have hydraulic actuators and can be extended to any angle up to 45°. The speed with the extended flaps is limited to 150 mph.  
-- Airplane tail wheel rotates freely and does not have a lock.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane is equipped with a siren that warns a pilot if the throttle is set to low (less than 1/4) position with landing gear retracted.  
+- The aircraft tail wheel rotates freely and does not have a lock.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft is equipped with a siren that warns a pilot if the throttle is set to low (less than 1/4) position with landing gear retracted.  
 - It is impossible to open the door at high speeds because of the ram air, but there is an emergency jettison handle for bailing out.  
-- Airplane is equipped with head, bottom formation lights and restricted intensity lights.  
+- The aircraft is equipped with head, bottom formation lights and restricted intensity lights.  
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - When rockets are installed there is Mk.IIL gunsight modification. To make it easier to aim rockets it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).  
 - The aircraft is equipped with a bomb salvo controller, it has three release modes: drop single, drop two in a salvo or drop all bombs in salvo.  

@@ -77,14 +77,14 @@ Wing surface: 17.15 m²
 Combat debut: May 1942  
   
 Operation features:  
-- Engine has a two-stage mechanical supercharger which must be manually switched at 2300m altitude.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 2300m altitude.  
 - Engine mixture control is manual; it is necessary to lean the mixture if altitude is more than 3-4 km for optimal engine operation. Also, leaning the mixture allows a reduction in fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Water and oil radiator shutters are controlled manually.  
-- Airplane has only the pitch flight-control trimmer.  
+- The aircraft has only the pitch flight-control trimmer.  
 - Landing flaps have a pneumatic actuator. Flaps can only be fully extended; gradual extending is impossible. Due to the weak force of the actuator the extended landing flaps may be pressed upwards by the airflow if the airspeed is more than 220 km/h. Remember that the flaps will not extend fully in case of high speed. In case of a high-speed landing approach the flaps may extend a few steps further right before landing.  
-- Airplane has a manual control for the tailwheel lock. The unlocked tailwheel has a 90° turn limit. The tailwheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft has a manual control for the tailwheel lock. The unlocked tailwheel has a 90° turn limit. The tailwheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - Fuel gauges are installed on left and right wing fuel tanks, outside of the cockpit. They show remaining fuel level only when there is less than 80 liters of fuel left in the tank.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
 - The control system for the wing-mounted bomb racks only allows releasing of both bombs together.  

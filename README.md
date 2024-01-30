@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.102 (25/04/2023)  
+Version: 5.201 (19/12/2023)  
 
 ## Planes
 
@@ -13,6 +13,10 @@ Version: 5.102 (25/04/2023)
 ### Airco D.H.4
 [Specifications](planes/aircodh4.md)  
 ![aircodh4](images/planes/aircodh4.png)  
+
+### Albatros D.II
+[Specifications](planes/albatrosd2.md)  
+![albatrosd2](images/planes/albatrosd2.png)  
 
 ### Albatros D.Va
 [Specifications](planes/albatrosd5.md)  
@@ -94,9 +98,17 @@ Version: 5.102 (25/04/2023)
 [Specifications](planes/c47a.md)  
 ![c47a](images/planes/c47a.png)  
 
+### CG-4A
+[Specifications](planes/cg4a.md)  
+![cg4a](images/planes/cg4a.png)  
+
 ### DFW C.V
 [Specifications](planes/dfwc5.md)  
 ![dfwc5](images/planes/dfwc5.png)  
+
+### F.E.2b
+[Specifications](planes/fe2b.md)  
+![fe2b](images/planes/fe2b.png)  
 
 ### Fokker D.VII
 [Specifications](planes/fokkerd7.md)  
@@ -146,9 +158,17 @@ Version: 5.102 (25/04/2023)
 [Specifications](planes/halberstadtcl2au.md)  
 ![halberstadtcl2au](images/planes/halberstadtcl2au.png)  
 
+### Halberstadt D.II
+[Specifications](planes/halberstadtd2.md)  
+![halberstadtd2](images/planes/halberstadtd2.png)  
+
 ### Handley Page O/400
 [Specifications](planes/handleypage400.md)  
 ![handleypage400](images/planes/handleypage400.png)  
+
+### Hanriot HD.1
+[Specifications](planes/hanriothd1.md)  
+![hanriothd1](images/planes/hanriothd1.png)  
 
 ### He 111 H-16
 [Specifications](planes/he111h16.md)  
@@ -169,6 +189,10 @@ Version: 5.102 (25/04/2023)
 ### I-16 type 24
 [Specifications](planes/i16t24.md)  
 ![i16t24](images/planes/i16t24.png)  
+
+### I.A.R. 80-A
+[Specifications](planes/iar80a.md)  
+![iar80a](images/planes/iar80a.png)  
 
 ### Il-2 mod.1941
 [Specifications](planes/il2m41.md)  
@@ -202,6 +226,10 @@ Version: 5.102 (25/04/2023)
 [Specifications](planes/la5fns2.md)  
 ![la5fns2](images/planes/la5fns2.png)  
 
+### La-5F ser.38
+[Specifications](planes/la5s38.md)  
+![la5s38](images/planes/la5s38.png)  
+
 ### La-5 ser.8
 [Specifications](planes/la5s8.md)  
 ![la5s8](images/planes/la5s8.png)  
@@ -209,6 +237,10 @@ Version: 5.102 (25/04/2023)
 ### LaGG-3 ser.29
 [Specifications](planes/lagg3s29.md)  
 ![lagg3s29](images/planes/lagg3s29.png)  
+
+### Li-2
+[Specifications](planes/li2.md)  
+![li2](images/planes/li2.png)  
 
 ### MC.202 ser.VIII
 [Specifications](planes/mc202s8.md)  
@@ -229,6 +261,18 @@ Version: 5.102 (25/04/2023)
 ### Mosquito F.B. Mk.VI ser.2
 [Specifications](planes/mosquitofbmkvis2.md)  
 ![mosquitofbmkvis2](images/planes/mosquitofbmkvis2.png)  
+
+### Nieuport 11.C1
+[Specifications](planes/nieuport11.md)  
+![nieuport11](images/planes/nieuport11.png)  
+
+### Nieuport 17.C1
+[Specifications](planes/nieuport17.md)  
+![nieuport17](images/planes/nieuport17.png)  
+
+### Nieuport 17.C1 GBR
+[Specifications](planes/nieuport17gbr.md)  
+![nieuport17gbr](images/planes/nieuport17gbr.png)  
 
 ### Nieuport 28.C1
 [Specifications](planes/nieuport28.md)  
@@ -277,6 +321,10 @@ Version: 5.102 (25/04/2023)
 ### Pfalz D.IIIa
 [Specifications](planes/pfalzd3a.md)  
 ![pfalzd3a](images/planes/pfalzd3a.png)  
+
+### R.E.8
+[Specifications](planes/re8.md)  
+![re8](images/planes/re8.png)  
 
 ### SSW D.IV
 [Specifications](planes/schuckertdiv.md)  

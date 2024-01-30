@@ -18,6 +18,7 @@ This BMW IIIa engine had a special control lever - "Höhengashebel" - which was 
   
 The D.VIIF was mainly supplied to the best and most proven frontline squadrons. As a result, the best German pilots were now able to outclass the latest Allied aircraft types in a plane superior to those of the Allies in almost every important aspect.  
   
+  
 Engine  
 6 cyl. inline BMW IIIa 232 hp  
   
@@ -33,16 +34,6 @@ Takeoff: 904 kg
 Fuel capacity: 95 l  
 Oil capacity: 20,7 l  
   
-Climb rate  
-1000 m —  2 min. 18 sec.  
-2000 m —  4 min. 40 sec.  
-3000 m —  7 min. 11 sec.  
-4000 m —  9 min. 47 sec.  
-5000 m — 12 min. 42 sec.  
-6000 m — 16 min. 23 sec.  
-7000 m — 21 min. 19 sec.  
-8000 m — 28 min. 59 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 197 km/h  
 1000 m — 192 km/h  
@@ -54,6 +45,16 @@ sea level — 197 km/h
 7000 m — 140 km/h  
 8000 m — 126 km/h  
 9000 m — 106 km/h  
+  
+Climb rate  
+1000 m —  2 min. 18 sec.  
+2000 m —  4 min. 40 sec.  
+3000 m —  7 min. 11 sec.  
+4000 m —  9 min. 47 sec.  
+5000 m — 12 min. 42 sec.  
+6000 m — 16 min. 23 sec.  
+7000 m — 21 min. 19 sec.  
+8000 m — 28 min. 59 sec.  
   
 Service ceiling ~9000 m  
   

@@ -81,18 +81,18 @@ Wing surface: 22.48 m²
 Combat debut: January 1944  
   
 Operation features:  
-- Engine is equipped with the automatic governor of the manifold pressure that works when the throttle is set to 1/3 position or above.  
-- Engine has a two stage mechanical supercharger which does not require manual control. It can be switched to the low gear manually.  
-- Engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
+- The engine is equipped with the automatic governor of the manifold pressure that works when the throttle is set to 1/3 position or above.  
+- The engine has a two stage mechanical supercharger which does not require manual control. It can be switched to the low gear manually.  
+- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
 - Engine RPM has an automatic governor that controls the propeller pitch to maintain the required RPM.  
 - The water and oil radiators shutters are operated automatically, but there is a special manual mode that forces radiator shutters to open completely.  
-- Aircraft has a neutral static stability. The elevator effectiveness is high, so the aircraft should be controlled carefully, not giving too much flight stick input.  
-- Aircraft becomes unstable with extended landing flaps.  
-- Aircraft is equipped with elevator and rudder trimmers.  
+- The aircraft has a neutral static stability. The elevator effectiveness is high, so the aircraft should be controlled carefully, not giving too much flight stick input.  
+- The aircraft becomes unstable with extended landing flaps.  
+- The aircraft is equipped with elevator and rudder trimmers.  
 - Landing flaps have a pneumatic actuator so they can be extended to maximum position only. Speed with extended landing flaps is limited to 160 mph.  
-- Airplane tail wheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
+- The aircraft tail wheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has an emergency release system for bailouts.  
 - The aircraft is equipped with two underwing formation lights.  
 - Standard gunsight is adjustable: both the target distance and target base can be set.  

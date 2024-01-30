@@ -13,6 +13,7 @@ Dr.I pilots reported an excellent rate of climb and manoeuvrability and a good v
 RFC pilots were especially apprehensive of situations where the Fokker Dr.I and the Albatros D.Va were flying together in combat formation. The Fokkers would initiate the dogfight and the Albatros pilots would shoot down enemy planes attempting to disengage and leave the battle.  
 By the spring of 1918, the plane was obsolete. Only the most outstanding German aces, masterfully piloting the plane and sharpshooting their enemies, continued to fly the triplane in combat.   
   
+  
 Engine  
 Oberursel UR II  rotary 9 cyl. 110 hp  
   
@@ -28,16 +29,6 @@ Takeoff weight: 571 kg
 Fuel capacity: 72 l  
 Oil capacity: 20 l  
   
-Climb rate  
-1000 m — 3 min. 15 sec.  
-2000 m — 6 min. 38 sec.  
-3000 m — 10 min. 35 sec.  
-4000 m — 15 min. 20 sec.  
-5000 m — 21 min. 17 sec.  
-6000 m — 29 min. 09 sec.  
-7000 m — 40 min. 55 sec.  
-8000 m — 64 min. 33 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 169: km/h  
 1000 m — 161 km/h  
@@ -48,6 +39,16 @@ sea level — 169: km/h
 6000 m — 118 km/h  
 7000 m — 108 km/h  
 8000 m — 94 km/h  
+  
+Climb rate  
+1000 m — 3 min. 15 sec.  
+2000 m — 6 min. 38 sec.  
+3000 m — 10 min. 35 sec.  
+4000 m — 15 min. 20 sec.  
+5000 m — 21 min. 17 sec.  
+6000 m — 29 min. 09 sec.  
+7000 m — 40 min. 55 sec.  
+8000 m — 64 min. 33 sec.  
   
 Service ceiling 7900 m  
   

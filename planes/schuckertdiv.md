@@ -22,16 +22,6 @@ Takeoff weight : 735 kg
 Fuel capacity : 80 l  
 Oil capacity : 20 l  
   
-Climb rate  
-1000 m — 1 min. 54 sec.  
-2000 m — 4 min. 10 sec.  
-3000 m — 6 min. 44 sec.  
-4000 m — 9 min. 43 sec.  
-5000 m — 13 min. 15 sec.  
-6000 m — 17 min. 35 sec.  
-7000 m — 23 min. 16 sec.  
-8000 m — 31 min. 47 sec.  
-  
 Maximum airspeed (IAS)  
 sea level — 192 km/h  
 1000 m — 183 km/h  
@@ -42,6 +32,16 @@ sea level — 192 km/h
 6000 m — 136 km/h  
 7000 m — 126 km/h  
 8000 m — 115 km/h  
+  
+Climb rate  
+1000 m — 1 min. 54 sec.  
+2000 m — 4 min. 10 sec.  
+3000 m — 6 min. 44 sec.  
+4000 m — 9 min. 43 sec.  
+5000 m — 13 min. 15 sec.  
+6000 m — 17 min. 35 sec.  
+7000 m — 23 min. 16 sec.  
+8000 m — 31 min. 47 sec.  
   
 Note 1: the data provided is for international standard atmosphere (ISA).  
 Note 2: maximum speeds and climb rates are given for standard aircraft mass.  

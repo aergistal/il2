@@ -12,6 +12,7 @@ The DFW C.V entered service in October 1916, initially being sent to special Luf
   
 Among its advantages, pilots noted the aircraft\'s ease of controls and of landing, high climb speed, and good visibility for the observer/gunner. Some frontline reports mentioned equal manoeuvrability to that of the Bristol F.2B Fighter, easy field maintenance, and very good structural durability.  
   
+  
 Engine: inline 6 cyl. Benz Bz.IV  
 Power: 230 hp  
   

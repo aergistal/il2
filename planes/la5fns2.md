@@ -76,18 +76,18 @@ Combat debut: June 1943
   
 Operation features:  
 - The engine has a boost mode. To engage it, increase the manifold pressure to 1180 mm Hg. Boost only works on 1st supercharger gear.  
-- Engine has a two-stage mechanical supercharger which must be manually switched at 3500m altitude.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 3500m altitude.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Oil radiator, air cooling intake and outlet shutters are manually controlled.  
 - Air cooling intake shutters should always be open. They should only be closed when there is a possibility of engine overcooling, for example in a dive with idle throttle.  
-- Aircraft is equipped with elevator and rudder trimmers.  
-- Airplane has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
+- The aircraft is equipped with elevator and rudder trimmers.  
+- The aircraft has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 60°.  
-- Airplane tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane has a fuel gauge which shows total remaining fuel.  
+- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft has a fuel gauge which shows total remaining fuel.  
 - Also, it is impossible to open or close canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop bombs one by one.
+- The control system for the bomb rack only allows to drop the two bombs at the same time.
 
 ## Modifications
 

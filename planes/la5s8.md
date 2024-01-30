@@ -11,17 +11,17 @@ Maximum load factor: 10 G
 Stall angle of attack in flight configuration: 22.7 °  
 Stall angle of attack in landing configuration: 15.1 °  
   
-Maximum true air speed at sea level, engine mode - Boosted: 544 km/h  
-Maximum true air speed at 3000 m, engine mode - Nominal: 571 km/h  
-Maximum true air speed at 6500 m, engine mode - Nominal: 603 km/h  
+Maximum true air speed at sea level, engine mode - Boosted: 550 km/h  
+Maximum true air speed at 3000 m, engine mode - Boosted: 575 km/h  
+Maximum true air speed at 6200 m, engine mode - Nominal: 595 km/h  
   
-Service ceiling: 9500 m  
-Climb rate at sea level: 18 m/s  
-Climb rate at 3000 m: 13.3 m/s  
-Climb rate at 6000 m: 8.2 m/s  
+Service ceiling: 9700 m  
+Climb rate at sea level: 19 m/s  
+Climb rate at 3000 m: 14.0 m/s  
+Climb rate at 6000 m: 8.8 m/s  
   
-Maximum performance turn at sea level: 23.4 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 35.3 s, at 270 km/h IAS.  
+Maximum performance turn at sea level: 21.7 s, at 290 km/h IAS.  
+Maximum performance turn at 3000 m: 32.0 s, at 300 km/h IAS.  
   
 Flight endurance at 3000 m: 1.9 h, at 350 km/h IAS.  
   
@@ -49,7 +49,7 @@ Boosted power (up to 5 minutes): 2400 RPM, 1140 mm Hg
 Oil rated temperature in engine output: 55..90 °C  
 Oil maximum temperature in engine output: 125 °C  
 Cylinder head rated temperature: 140..210 °C  
-Cylinder head maximum temperature: 215 °C  
+Cylinder head maximum temperature: 250 °C  
   
 Supercharger gear shift altitude: 3500 m  
   
@@ -76,19 +76,19 @@ Combat debut: September 1942
 Operation features:  
 - The engine has a boost mode. To set boost mode it is necessary to push the boost knob and increase manifold pressure to 1140 mm Hg.  
 - The boost control is effectively a limiter. It limits the pressure to 950 mm Hg in normal mode and to 1140 mm Hg in the boost mode.  
-- Engine has a two-stage mechanical supercharger which must be manually switched at 3500m altitude.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 3500m altitude.  
 - Engine mixture control is automatic when the mixture lever is set to maximum. It is possible to manually lean the mixture by moving the mixture control to less than maximum. This also reduces fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Oil radiator, air cooling intake and outlet shutters are manually controlled.  
 - Air cooling intake shutters should always be open. They should only be closed when there is a possibility of engine overcooling, for example in a dive with idle throttle.  
-- Airplane has trimmers for all flight-controls: pitch, roll and yaw.  
-- Airplane has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
+- The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
+- The aircraft has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 60°.  
-- Airplane tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane has a fuel gauge which shows total remaining fuel.  
+- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft has a fuel gauge which shows total remaining fuel.  
 - Cockpit canopy has a weak lock when in the opened position, for this reason the canopy may spontaneously close in a deep dive. Also, it is impossible to open or close canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop bombs one by one.
+- The control system for the bomb rack only allows to drop the two bombs at the same time.
 
 ## Modifications
 

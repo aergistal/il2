@@ -69,21 +69,21 @@ Wing surface: 111.5 m²
 Combat debut: 1936  
   
 Operation features:  
-- Engine has a single stage mechanical supercharger which does not require manual control.  
+- The engine has a single stage mechanical supercharger which does not require manual control.  
 - Engine mixture control is manual; it is necessary to lean the mixture if altitude is more than 1 km for optimal engine operation. Also, leaning the mixture allows a reduction in fuel consumption during flight.  
 - All three propellers are fixed pitch ones, so thrust can only be controlled by adjusting the engines throttle (from idle at 25%25 to maximum power at 100%25). 0 - 20%25 throttle range is used for braking the landing gear wheels. Engine modes can be determined only by watching the engine RPM gauges.  
 - Radiator bypass valve and engine cowls are controlled manually.  
 - Pedals in the cabin are equipped with adjustable load feel mechanism to reduce the pilot's work load.  
-- Airplane has a manually controlled horizontal stabilizer. It should be set to 0° before takeoff, to +2° during flight and to -1.5° for landing. Also, it may be used to trim the flight stick during the flight.  
+- The aircraft has a manually controlled horizontal stabilizer. It should be set to 0° before takeoff, to +2° during flight and to -1.5° for landing. Also, it may be used to trim the flight stick during the flight.  
 - The mechanical flaps control system can be controlled simultaneously with the horizontal stabilizer, these two systems can be linked or unlinked (by using flaps control buttons). It is important to note that it is possible to render the system inoperable so it would not be able to control either the stabilizer or the flaps by deviating from a standard control procedure described below.  
 - Before taking off, set the stabilizer to flight position +2°, engage the link and then move the stabilizer to take-off position 0° - flaps will be extended to 25°.  
 - When airborne, move the stabilizer back to flight position (flaps should also fully retract) and  unlink these controls.  
 - Before landing, set the stabilizer to flight position +2°, engage the link and then move the stabilizer to landing position -1.5° - flaps will be fully extended to 40°.  
-- Airplane tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- Airplane has separate pneumatic wheel brakes. To brake left or right wheels, move their corresponding left or right engine throttle to 20%25 or less. Setting the central engine throttle to 20%25 or less will brake both wheels. Maximum braking efficiency can be achieved by moving the trottle all the way down. In the sim, you can also use the brake buttons to move left and right engine throttles to braking position.  
-- Airplane is equipped with a hydraulic tail wheel parking brake system.  
-- Airplane is equipped with two mechanical fuel float level gauges for left and right fuel tank groups, located on the left and right engine nacelles outside the cabin.  
-- Airplane has three mechanical oil float level gauges on each of the three engine nacelles outside the cabin.  
+- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has separate pneumatic wheel brakes. To brake left or right wheels, move their corresponding left or right engine throttle to 20%25 or less. Setting the central engine throttle to 20%25 or less will brake both wheels. Maximum braking efficiency can be achieved by moving the trottle all the way down. In the sim, you can also use the brake buttons to move left and right engine throttles to braking position.  
+- The aircraft is equipped with a hydraulic tail wheel parking brake system.  
+- The aircraft is equipped with two mechanical fuel float level gauges for left and right fuel tank groups, located on the left and right engine nacelles outside the cabin.  
+- The aircraft has three mechanical oil float level gauges on each of the three engine nacelles outside the cabin.  
 - Cargo unload doors can be opened on the ground only.  
 - The left passenger door must be removed before flight for dropping paratroopers or cargo containers. Use the bomb drop button ("B" by default) to drop them.
 

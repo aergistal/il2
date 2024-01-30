@@ -78,17 +78,17 @@ Wing surface: 17.51 m²
 Combat debut: May 1942  
   
 Operation features:  
-- Engine has a two-stage mechanical supercharger which must be manually switched at 2500m altitude.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 2500m altitude.  
 - Engine mixture control is manual; it is necessary to lean the mixture if altitude is more than 3-4 km for optimal engine operation. Also, leaning the mixture allows a reduction in fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Water and oil radiator shutters are controlled manually.  
-- Airplane has trimmers for all flight-controls: pitch, roll and yaw.  
+- The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 60°.  
-- Airplane tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- Airplane has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Airplane has a fuel gauge which shows total remaining fuel.  
+- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
+- The aircraft has a fuel gauge which shows total remaining fuel.  
 - Cockpit canopy has a weak lock when in the opened position, for this reason the canopy may spontaneously close in a deep dive. It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop bombs one by one.  
+- The control system for the bomb rack only allows to drop the two bombs at the same time.  
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
 
 ## Modifications
