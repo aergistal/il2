@@ -44,7 +44,7 @@ Maximum power in maximum continuous (nominal) mode at 1700 m: 840 HP
   
 Engine modes:  
 Take-off (up to 5 minutes): 2200 RPM, 1050 mm Hg  
-Nominal (up to 60 minutes): 2100 RPM, 900 mm Hg  
+Nominal: 2100 RPM, 900 mm Hg  
   
 Oil rated temperature in engine output: 115 °C  
 Oil maximum temperature in engine output: 125 °C  

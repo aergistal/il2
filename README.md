@@ -2,7 +2,7 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.201 (19/12/2023)  
+Version: 5.202 (20/02/2024)  
 
 ## Planes
 
@@ -194,6 +194,10 @@ Version: 5.201 (19/12/2023)
 [Specifications](planes/iar80a.md)  
 ![iar80a](images/planes/iar80a.png)  
 
+### I.A.R. 80-B
+[Specifications](planes/iar80b.md)  
+![iar80b](images/planes/iar80b.png)  
+
 ### Il-2 mod.1941
 [Specifications](planes/il2m41.md)  
 ![il2m41](images/planes/il2m41.png)  
@@ -361,6 +365,10 @@ Version: 5.201 (19/12/2023)
 ### SPAD 7.C1 180hp
 [Specifications](planes/spad7late.md)  
 ![spad7late](images/planes/spad7late.png)  
+
+### Spitfire Mk.IXc
+[Specifications](planes/spitfiremkixc.md)  
+![spitfiremkixc](images/planes/spitfiremkixc.png)  
 
 ### Spitfire Mk.IXe
 [Specifications](planes/spitfiremkixe.md)  

@@ -1,6 +1,6 @@
-# Spitfire Mk.IXe
+# Spitfire Mk.IXc
 
-![spitfiremkixe](../images/planes/spitfiremkixe.png)
+![spitfiremkixc](../images/planes/spitfiremkixc.png)
 
 ## Description
 
@@ -81,13 +81,17 @@ Oil maximum temperature in engine intake: 105 °C
   
 Supercharger gear shift altitude: automatic with possibility of manual switch to low gear  
   
-Empty weight: 2530 kg (5578 lb)  
-Minimum weight (no ammo, 10%25 fuel): 2977 kg (6563 lb)  
-Standard weight: 3359 kg (7405 lb)  
+Empty weight: 2532 kg (5582 lb)  
+Minimum weight (no ammo, 10%25 fuel): 2962 kg (6530 lb)  
+Standard weight: 3310 kg (7297 lb)  
 Fuel load: 274 kg (604 lb) / 386 l (85 gallons)  
 Maximum useful load: 1302 kg (2870 lb)  
   
-Forward-firing armament:  
+Forward-firing armament ("c-type" wing):  
+2 x 20mm gun "Hispano Mk.II", 140 rounds per gun, 650 rounds per minute, wing-mounted  
+4 x 7.7mm machine gun "Browning .303", 350 rounds per gun, 1150 rounds per minute, wing-mounted  
+  
+Forward-firing armament ("e-type" wing):  
 2 x 20mm gun "Hispano Mk.II", 140 rounds per gun, 650 rounds per minute, wing-mounted  
 2 x 12.7mm machine gun "Browning .50", 250 rounds per gun, 850 rounds per minute, wing-mounted  
   
@@ -111,7 +115,6 @@ Operation features:
 - The engine is equipped with an automatic fuel mixture control which maintains optimal mixture.  
 - Engine RPM has an automatic governor that controls the propeller pitch to maintain the required RPM.  
 - The water and oil radiators shutters are operated automatically, but there is a special manual mode that forces radiator shutters to open completely.  
-- To use the fuel gauge, press and hold the corresponding button (RShift+I by default).  
 - The aircraft has a neutral static stability. The elevator effectiveness is high, so the aircraft should be controlled carefully, not giving too much flight stick input.  
 - The aircraft becomes unstable with extended landing flaps.  
 - The aircraft is equipped with elevator and rudder trimmers.  
@@ -132,15 +135,13 @@ Allows +25 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 9000ft altitude.  
 Estimated speed increase at sea level: 29 km/h
 
-**Gyro Gunsight**  
-MkII Gyro Gunsight  
-Additional mass: 5.2 kg  
-Estimated speed loss: 0 km/h
-
-**Mirror**  
-Rear view mirror  
-Additional mass: 1 kg  
-Estimated speed loss: 1 km/h
+**2 x 250 lb G.P. bombs**  
+2 x 250 lb General Purpose Bombs  
+Additional mass: 247 kg  
+Ammunition mass: 227 kg  
+Racks mass: 20 kg  
+Estimated speed loss before drop: 24 km/h  
+Estimated speed loss after drop: 8 km/h
 
 **2 х RP-3 HE / AP rockets**  
 2 х 3-in Semi-Armour Piercing/High Explosive or Armour Piercing unguided rockets RP-3  
@@ -159,14 +160,6 @@ Racks mass: 20 kg
 Estimated speed loss before launch: 21 km/h  
 Estimated speed loss after launch: 17 km/h
 
-**2 x 250 lb G.P. bombs**  
-2 x 250 lb General Purpose Bombs  
-Additional mass: 247 kg  
-Ammunition mass: 227 kg  
-Racks mass: 20 kg  
-Estimated speed loss before drop: 24 km/h  
-Estimated speed loss after drop: 8 km/h
-
 **500 lb G.P. bomb**  
 500 lb General Purpose Bomb  
 Additional mass: 237 kg  
@@ -175,18 +168,27 @@ Racks mass: 10 kg
 Estimated speed loss before drop: 13 km/h  
 Estimated speed loss after drop: 7 km/h
 
+**Gyro Gunsight**  
+MkII Gyro Gunsight  
+Additional mass: 5.2 kg  
+Estimated speed loss: 0 km/h
+
+**Mirror**  
+Rear view mirror  
+Additional mass: 1 kg  
+Estimated speed loss: 1 km/h
+
 **Clipped Wing**  
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h
 
-**300-liter Drop Tank**  
-300-liter jettisonable fuel tank  
-Empty mass: 50 kg  
-Full mass: 275 kg  
-Fuel capacity: 300 l  
-Estimated speed loss before drop: 30 km/h  
-Estimated speed loss after drop: 10 km/h
+**E-type Wing**  
+2 x 12.7mm "Browning .50" machine guns instead of 4 x 7.7mm "Browning .303" machine guns  
+Additional mass: 48 kg  
+Ammunition mass: 70 kg  
+Gun mass: 72 kg  
+Estimated speed gain: 5 km/h
 
 **Merlin 70 engine**  
 Merlin 70 engine.   

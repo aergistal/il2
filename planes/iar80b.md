@@ -1,6 +1,6 @@
-# I.A.R. 80-A
+# I.A.R. 80-B
 
-![iar80a](../images/planes/iar80a.png)
+![iar80b](../images/planes/iar80b.png)
 
 ## Description
 
@@ -11,15 +11,15 @@ Maximum load factor: 12 G
 Stall angle of attack in flight configuration: 16,0°  
 Stall angle of attack in landing configuration: 13,8°  
   
-Maximum true air speed at sea level, engine mode - nominal: 433 km/h  
-Maximum true air speed at sea level, engine mode - emergency: 450 km/h  
-Maximum true air speed at 4700, engine mode - nominal m: 511 km/h  
-Maximum true air speed at 3800 m, engine mode - emergency: 514 km/h  
+Maximum true air speed at sea level, engine mode - nominal: 427 km/h  
+Maximum true air speed at sea level, engine mode - emergency: 447 km/h  
+Maximum true air speed at 4700, engine mode - nominal m: 505 km/h  
+Maximum true air speed at 3800 m, engine mode - emergency: 511 km/h  
   
 Service ceiling: 10500 m  
-Climb rate at sea level: 14,1 m/s  
-Climb rate at 3000 m: 13,6 m/s  
-Climb rate at 6000 m: 9,7 m/s  
+Climb rate at sea level: 13,9 m/s  
+Climb rate at 3000 m: 13,1 m/s  
+Climb rate at 6000 m: 9,4 m/s  
   
 Maximum performance turn at sea level: 17,8 s, at 300 km/h IAS.  
   
@@ -49,21 +49,22 @@ Emergency (up to 3 minutes): 2300 RPM, 935 mm Hg
 Oil rated temperature in engine output: 40..110 °C  
 Oil maximum temperature in engine output: 120 °C  
 	  
-Empty weight: 1980 kg  
-Minimum weight (no ammo, 10%25 fuel): 2293 kg  
-Standard weight: 2650 kg  
+Empty weight: 20930 kg  
+Minimum weight (no ammo, 10%25 fuel): 2522 kg  
+Standard weight: 2745 kg  
 Maximum takeoff weight: 3030 kg  
 Fuel load: 324 kg / 450 l  
 Useful load: 1050 kg  
 	  
 Forward-firing armament:  
-6 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 2400 rounds, 1500 rounds per minute, wing-mounted  
+4 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 1600 rounds, 1500 rounds per minute, wing-mounted  
+2 x 13.2mm machine gun "FN Browning 13.2", 350 rounds, 1080 rounds per minute, wing-mounted	  
   
 or (modification):	  
 4 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 1600 rounds, 1500 rounds per minute, wing-mounted  
-2 x 13.2mm machine gun "FN Browning 13.2", 300 rounds, 1080 rounds per minute, wing-mounted	  
-or (modification):	  
+2 x 20mm gun "MG FF", 120 rounds, 530 rounds per minute, wing-mounted  
   
+or (modification):	  
 2 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 1400 rounds, 1500 rounds per minute, wing-mounted  
 2 x 20mm gun "MG 151/20", 350 rounds, 700 rounds per minute, wing-mounted  
 	  
@@ -71,20 +72,20 @@ Bombs (modification):
 Up to 2 x 55 kg fragmentation bombs "SC 50"  
 249 kg general purpose bomb "SC 250"  
 	  
-Length: 8.9 m  
-Wingspan: 10.5 m  
-Wing surface: 16.1 m²  
+Length: 8.97 m  
+Wingspan: 11.0 m  
+Wing surface: 16.5 m²  
 	  
-Combat debut: Summer-Autumn 1941  
+Combat debut: Autumn 1942  
 	  
 Operation features:  
 - The aircraft has no constant propeller governor. The propeller speed is controlled by manually changing the propeller pitch using a switch on the instrument board (default propeller pitch commands in the sim are [RShift + +/-]).  
 - Due to the absence of a constant propeller speed governor, it is necessary to carefully monitor the propeller RPM, especially in a dive - due to the spinning up of the propeller during acceleration, it is possible to exceed the maximum RPM and cause an engine failure.	  
 - The aircraft has no cylinder head temperature gauge - only an oil temperature gauge.  
-- The oil radiator of the I.A.R. 80-A has no regulation (there is a second adjustable oil radiator on I.A.R. 80-M modification).  
+- The oil radiator of the I.A.R. 80-B has no regulation (there is a second adjustable oil radiator on I.A.R. 80-C, I.A.R. 81-C modification).  
 - The aircraft is equipped with elevator trimmer.  
 - Mixture control is automated, the automatic regulator maintains the set mixture composition and automatically enriches the mixture at low and full throttle. The optimum mixture is set by the centre position of the control lever.  
-- The flaps are hydraulic and can be set to any angle up to 60°. In the dive bomber version, the fully released flaps are used as air brake. There is no flap position indicator.  
+- The flaps are hydraulic and can be set to any angle up to 75°. In the dive bomber version, the fully released flaps are used as air brake. There is no flap position indicator.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a hydrostatic fuel gauge which shows total fuel remaining only when manual sucker lever is pushed in. In the sim, hold [RShift+I by default].  
 - To drop bombs, you must switch on the bomb releasel system first [N key]. After dropping bombs, the system should be manually deactivated.  
@@ -96,24 +97,19 @@ Operation features:
 
 ## Modifications
 
-**I.A.R.81 series 151-175**  
-Centerline (249 kg SC 250) and underwing bombs (two 55 kg SC 50),  
-tail struts, sturdier flaps.  
-Additional mass: 378.7 kg  
-Ammunition mass: 358.7 kg  
-Racks mass: 20.0 kg  
-Estimated speed loss before drop: 32 km/h  
-Estimated speed loss after drop: 13 km/h
-
-**I.A.R.80-B series 181-200**  
- Two 7.92mm MGs replaced by 13.2mm ones,  
-new headrest, sturdier flaps.  
-Additional mass: 14.7 kg  
-Estimated speed loss: 1 km/h
-
-**I.A.R.80-M**  
+**I.A.R.81-C series 301-450**  
 Armament changed to two 7.92mm MGs and two 20mm MG151/20 guns,  
+centerline (249 kg SC 250) and underwing bombs (two 55 kg SC 50),  
+tail struts, sturdier flaps.  
+Additional mass: 426.7 kg  
+Ammunition mass: 387.5 kg  
+Racks mass: 20.0 kg  
+Estimated speed loss before drop: 41 km/h  
+Estimated speed loss after drop: 19 km/h
+
+**I.A.R.80-C series 251-290**  
+Armament changed to four 7.92mm MGs and two 20mm MG FF/M guns,  
 tail struts, new air filter, second oil radiator,  
-late type headrest, sturdier fuselage and flaps.  
-Additional mass: 62.2 kg  
-Estimated speed loss: 9 km/h
+sturdier fuselage and flaps.  
+Additional mass: 24.2 kg  
+Estimated speed loss: 12 km/h
