@@ -53,7 +53,7 @@ Oil maximum temperature in engine output: 115 °C
 Supercharger gear shift altitude: 2300 m  
   
 Empty weight: 2365 kg  
-Minimum weight (no ammo, 10%25 fuel): 2583 kg  
+Minimum weight (no ammo, 10% fuel): 2583 kg  
 Standard weight: 2932 kg  
 Maximum takeoff weight: 3170 kg  
 Fuel load: 304 kg / 408 l  
@@ -88,7 +88,35 @@ Operation features:
 - Fuel gauges are installed on left and right wing fuel tanks, outside of the cockpit. They show remaining fuel level only when there is less than 80 liters of fuel left in the tank.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
 - The control system for the wing-mounted bomb racks only allows releasing of both bombs together.  
-- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
+- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the radiators control handles: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 5%  
+	- before taxiing, you must unlock the tailwheel  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes. At 8-9 km altitude, the altitude corrector closes to 0%.  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50%  
+	- combat: open 100%  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 66%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- nominal mode of engine operation: 7.4 l/min
 
 ## Modifications
 

@@ -42,8 +42,8 @@ Reverse: 4.1 kph.
 <b><u>Fluids:</u></b>  
 Internal fuel tanks capacity: 720 l.  
 Engine oil system capacity: 42 l.  
-Summer engine coolant: 120 l. of 40%25 glysantin  
-Winter engine coolant: 120 l. of 60%25 glysantin  
+Summer engine coolant: 120 l. of 40% glysantin  
+Winter engine coolant: 120 l. of 60% glysantin  
 Endurance range: 205 km.  
 Maximum oil consumption: 3.8 l/h.  
   

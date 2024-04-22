@@ -34,8 +34,8 @@ Powerplant has 3 power modes:
 <b><u>Fluids:</u></b>  
 Internal fuel tanks capacity: 950 l.  
 Engine oil system capacity: 50 l.  
-Summer engine coolant: 200 l. of 40%25 glysantin  
-Winter engine coolant: 200 l. of 60%25 glysantin  
+Summer engine coolant: 200 l. of 40% glysantin  
+Winter engine coolant: 200 l. of 60% glysantin  
 Maximum oil consumption: 22 l/h.  
   
 <b><u>Hull armour:</u></b>  

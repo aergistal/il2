@@ -100,7 +100,25 @@ Operational features:
 - The tail skid is linked to the rudder (8° maximum tilt).  
 - There are no wheel brakes.  
 - There is no electric generator in the default aircraft configuration, so electric lights and Pitot tube warmer (which consumes up to 226W) are fed from 24V battery (10 Ah capacity at 1 A current in standard conditions). To power the RSI-4 radio station, GS-10-350 electric generator is installed along with it.  
-- Please note that with all possible modifications and full fuel the total aircraft weight is 1390 kg, more than its maximum takeoff weight.
+- Please note that with all possible modifications and full fuel the total aircraft weight is 1390 kg, more than its maximum takeoff weight.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the radiator/cowl flap control handle: no radiator control  
+	- recommended position of the prop pitch control handle: no prop pitch control  
+	- recommended position of the throttle lever: 20%  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  no control of radiators/cowl flaps  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 0.6 l/min  
+	- Combat engine mode: 0.7 l/min
 
 ## Modifications
 

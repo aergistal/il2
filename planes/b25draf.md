@@ -37,7 +37,7 @@ Landing angle: 4.5 °
   
 Note 1: the data provided is for international standard atmosphere (ISA).  
 Note 2: flight performance ranges are given for possible aircraft mass ranges.  
-Note 3: maximum speeds, climb rates and turn times are given for aircraft mass with 8 G.P.B. 500 bombs and 58%25 fuel.  
+Note 3: maximum speeds, climb rates and turn times are given for aircraft mass with 8 G.P.B. 500 bombs and 58% fuel.  
 Note 4: climb rates and turn times are given for Nominal power.  
   
 Engine:  
@@ -65,7 +65,7 @@ Cylinder head maximum temperature: 260 °C
 Supercharger gear shift altitude: 3350 m (11000 ft)  
   
 Empty weight: 8379 kg  
-Minimum weight (no ammo, 10%25 fuel): 8829 kg  
+Minimum weight (no ammo, 10% fuel): 8829 kg  
 Standard weight: 11544 kg  
 Maximum takeoff weight: 15422 kg  
 Fuel load: 2618 kg / 3688 l / 974 gal  
@@ -91,7 +91,7 @@ Combat debut: spring 1942
   
 Operation features:  
 - The engine has no manifold pressure automatic governor. For this reason, manifold pressure not only depends on throttle position, but also from RPM and altitude. This requires additional checking of manifold pressure to not cause engine damage.  
-- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture if mixture lever is set to Full Rich (100%25) position. To use automatic mixture leaning to reduce fuel consumption during flight it is necessary to set mixture lever to Cruising Lean (50%25) position. To stop the engine mixture lever should be set to the Cut Off (0%25) position.  
+- The engine is equipped with an automatic fuel mixture control which maintains optimal mixture if mixture lever is set to Full Rich (100%) position. To use automatic mixture leaning to reduce fuel consumption during flight it is necessary to set mixture lever to Cruising Lean (50%) position. To stop the engine mixture lever should be set to the Cut Off (0%) position.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Oil radiators shutters and engine cowl outlet shutters are manually operated.  
 - The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  

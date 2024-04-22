@@ -54,7 +54,7 @@ Cylinder head maximum temperature: 250 °C
 Supercharger gear shift altitude: 3500 m  
   
 Empty weight: 2648 kg  
-Minimum weight (no ammo, 10%25 fuel): 2928 kg  
+Minimum weight (no ammo, 10% fuel): 2928 kg  
 Standard weight: 3353 kg  
 Maximum takeoff weight: 3593 kg  
 Fuel load: 370 kg / 521 l  
@@ -84,11 +84,43 @@ Operation features:
 - The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - The aircraft has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 60°.  
-- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft tailwheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a fuel gauge which shows total remaining fuel.  
 - Cockpit canopy has a weak lock when in the opened position, for this reason the canopy may spontaneously close in a deep dive. Also, it is impossible to open or close canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop the two bombs at the same time.
+- The control system for the bomb rack only allows to drop the two bombs at the same time.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the cowls flap control handles: open  
+	- recommended position of the oil radiator flap control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3.1 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: open (in winter conditions - close 50% if necessary)  
+	- combat: open  
+  
+3.2 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 60%  
+  
+3.3 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 50%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 9.7 l/min  
+	- Combat engine mode: 11.1 l/min
 
 ## Modifications
 

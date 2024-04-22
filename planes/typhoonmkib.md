@@ -54,7 +54,7 @@ Oil maximum temperature in engine intake: 95 °C
 Supercharger gear shift altitude: 9500 feet  
   
 Empty weight: 4256 kg  
-Minimum weight (no ammo, 10%25 fuel): 4304 kg  
+Minimum weight (no ammo, 10% fuel): 4304 kg  
 Standard weight: 4915 kg  
 Maximum takeoff weight: 6094 kg  
 Fuel load: 496 kg / 691 l / 162 gallons  
@@ -85,12 +85,31 @@ Operation features:
 - The aircraft has a fuel gauge which shows remaining fuel in fuel tanks depending on switch position. In game the fuel indicator switch changes by pressing (RShift+I).  
 - The aircraft has pitch and yaw flight-control trimmers.  
 - Landing flaps have hydraulic actuators and can be extended to any angle up to 80°. The speed with the extended flaps is limited to 160 mph.  
-- The airplane tail wheel rotates freely and does not have a lock.  
+- The airplane tailwheel rotates freely and does not have a lock.  
 - The pneumatic brakes are differential: moving the pedals with brakes pressed results in releasing the brake opposite to the pressed pedal.  
 - The landing gear indicator lamp lights up if the throttle is set to low (less than 1/3) position with the landing gear retracted.  
 - It is impossible to open the canopy at high speeds because of the ram air, but there is an emergency jettison handle for bailing out.  
 - The aircraft is equipped with bottom formation lights.  
-- The range-finding gunsight reticle can be adjusted for a given target base and range.To make it easier to aim missiles it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).
+- The range-finding gunsight reticle can be adjusted for a given target base and range.To make it easier to aim missiles it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: Start  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: Normal (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.7 l/min  
+	- Combat engine mode: 12.3 l/min
 
 ## Modifications
 

@@ -57,7 +57,7 @@ Oil maximum temperature in engine intake: 105 °C
 Supercharger gear shift altitude: automatic with possibility of manual switch to low gear  
   
 Empty weight: 3295.0 kg  
-Minimum weight (no ammo, 10%25 fuel): 3422.7 kg  
+Minimum weight (no ammo, 10% fuel): 3422.7 kg  
 Standard weight: 3862.7 kg  
 Fuel load: 363.3 kg / 504.6 l / 111 gallons  
 Maximum useful load: 1027.8 kg  
@@ -90,14 +90,29 @@ Operation features:
 - The aircraft becomes unstable with extended landing flaps.  
 - The aircraft is equipped with elevator and rudder trimmers.  
 - Landing flaps have a pneumatic actuator so they can be extended to maximum position only. Speed with extended landing flaps is limited to 160 mph.  
-- The aircraft tail wheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft tailwheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has an emergency release system for bailouts.  
 - The aircraft is equipped with two underwing formation lights.  
 - Standard gunsight is adjustable: both the target distance and target base can be set.  
 - The gyroscopic gunsight automaticly calculates required angular deflection while firing at a target. It has 4 modes: fixed reticle, fixed and gyro reticle, gyro reticle, gyro reticle with the target range fixed at 150 yards (night mode). The angular deflection will be calculated correctly only if the target range is set properly. To set the range, adjust the target base first using separate controls and then set the range by adjusting the size of the rangefiding reticle to be the same as the target size.  
-- Both gunsights have sliding sun-filters.
+- Both gunsights have sliding sun-filters.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.4 l/min  
+	- Combat engine mode: 12.9 l/min
 
 ## Modifications
 

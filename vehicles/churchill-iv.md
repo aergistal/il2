@@ -42,7 +42,7 @@ Reverse: 1.1 mph (1.7 kph).
 Internal fuel tanks capacity: 682 l.  
 Engine oil system capacity: 25 l.  
 Summer engine coolant: 100 l. of water  
-Winter engine coolant: 100 l. of 43%25 alcohol 15%25 glycerol  
+Winter engine coolant: 100 l. of 43% alcohol 15% glycerol  
 Endurance range: 210 km.  
 Maximum oil consumption: 1.3 l/h.  
   

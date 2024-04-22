@@ -75,7 +75,7 @@ Wing surface: 91,7 m²
 Combat debut: Autumn 1942  
   
 Operation features:  
-- IMPORTANT: take up to 50%25 fuel in cargo loadout to not exceed the maximum takeoff weight.  
+- IMPORTANT: take up to 50% fuel in cargo loadout to not exceed the maximum takeoff weight.  
 - The engine has no manifold pressure automatic governor. For this reason, manifold pressure not only depends on throttle position, but also from RPM and altitude. This requires additional checking of manifold pressure to not cause engine damage.  
 - Engine mixture control is automatic when the mixture lever is set to maximum. It is possible to manually lean the mixture by moving the mixture control to less than maximum. This also reduces fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
@@ -90,7 +90,38 @@ Operation features:
 - The aircraft has a manual control for the tailwheel lock. The unlocked tailwheel has no turn limit. The tailwheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
 - The aircraft is equipped with three-channel autopilot system (main switch RAlt + A). Pilot has the ability to trim course (RAlt + Left/Right), pitch (RAlt + Up/Down) and roll (RShift + Left/Right) stabilizing angles.  
 - Cargo unload doors can be opened on the ground only.  
-- The side door must be opened for dropping paratroopers or cargo containers stored inside. Open it using the bomb bay doors toggle command ("N" by default) and then use the bomb drop button ("B" by default) to drop them.
+- The side door must be opened for dropping paratroopers or cargo containers stored inside. Open it using the bomb bay doors toggle command ("N" by default) and then use the bomb drop button ("B" by default) to drop them.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: forward  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the radiator control handle: open 50%  
+	- recommended position of the prop pitch control handle: heavy  
+	- recommended position of the throttle lever: 15%  
+	- before taxiing, you must unlock the tailwheel  
+	- before taxiing, the parking brake must be released  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 60%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 40-50% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3.1 Recommended positions of the radiator/cowl flap control handle for various flight modes: / no control of radiators/cowl flaps  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+3.2 Recommended positions of the radiator/cowl flap control handle for various flight modes: / no control of radiators/cowl flaps  
+	- takeoff: open 50%  
+	- climb: open 100%  
+	- cruise flight: open 40% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.7 l/min  
+	- Combat engine mode: 9.8 l/min
 
 ## Modifications
 

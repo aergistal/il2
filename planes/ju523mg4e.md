@@ -53,7 +53,7 @@ Oil rated temperature in engine output: 80 °C
 Oil maximum temperature in engine output: 100 °C  
   
 Empty weight: 6305 kg  
-Minimum weight (no ammo, 10%25 fuel): 7017 kg  
+Minimum weight (no ammo, 10% fuel): 7017 kg  
 Standard weight: 10003 kg  
 Maximum takeoff weight: 11333 kg  
 Fuel load: 1824 kg / 2400 l  
@@ -71,7 +71,7 @@ Combat debut: 1936
 Operation features:  
 - The engine has a single stage mechanical supercharger which does not require manual control.  
 - Engine mixture control is manual; it is necessary to lean the mixture if altitude is more than 1 km for optimal engine operation. Also, leaning the mixture allows a reduction in fuel consumption during flight.  
-- All three propellers are fixed pitch ones, so thrust can only be controlled by adjusting the engines throttle (from idle at 25%25 to maximum power at 100%25). 0 - 20%25 throttle range is used for braking the landing gear wheels. Engine modes can be determined only by watching the engine RPM gauges.  
+- All three propellers are fixed pitch ones, so thrust can only be controlled by adjusting the engines throttle (from idle at 25% to maximum power at 100%). 0 - 20% throttle range is used for braking the landing gear wheels. Engine modes can be determined only by watching the engine RPM gauges.  
 - Radiator bypass valve and engine cowls are controlled manually.  
 - Pedals in the cabin are equipped with adjustable load feel mechanism to reduce the pilot's work load.  
 - The aircraft has a manually controlled horizontal stabilizer. It should be set to 0° before takeoff, to +2° during flight and to -1.5° for landing. Also, it may be used to trim the flight stick during the flight.  
@@ -79,13 +79,41 @@ Operation features:
 - Before taking off, set the stabilizer to flight position +2°, engage the link and then move the stabilizer to take-off position 0° - flaps will be extended to 25°.  
 - When airborne, move the stabilizer back to flight position (flaps should also fully retract) and  unlink these controls.  
 - Before landing, set the stabilizer to flight position +2°, engage the link and then move the stabilizer to landing position -1.5° - flaps will be fully extended to 40°.  
-- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
-- The aircraft has separate pneumatic wheel brakes. To brake left or right wheels, move their corresponding left or right engine throttle to 20%25 or less. Setting the central engine throttle to 20%25 or less will brake both wheels. Maximum braking efficiency can be achieved by moving the trottle all the way down. In the sim, you can also use the brake buttons to move left and right engine throttles to braking position.  
-- The aircraft is equipped with a hydraulic tail wheel parking brake system.  
+- The aircraft tailwheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft has separate pneumatic wheel brakes. To brake left or right wheels, move their corresponding left or right engine throttle to 20% or less. Setting the central engine throttle to 20% or less will brake both wheels. Maximum braking efficiency can be achieved by moving the trottle all the way down. In the sim, you can also use the brake buttons to move left and right engine throttles to braking position.  
+- The aircraft is equipped with a hydraulic tailwheel parking brake system.  
 - The aircraft is equipped with two mechanical fuel float level gauges for left and right fuel tank groups, located on the left and right engine nacelles outside the cabin.  
 - The aircraft has three mechanical oil float level gauges on each of the three engine nacelles outside the cabin.  
 - Cargo unload doors can be opened on the ground only.  
-- The left passenger door must be removed before flight for dropping paratroopers or cargo containers. Use the bomb drop button ("B" by default) to drop them.
+- The left passenger door must be removed before flight for dropping paratroopers or cargo containers. Use the bomb drop button ("B" by default) to drop them.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: fixed pitch  
+	- recommended position of the throttle lever: 35%  
+	- before taxiing, the parking brake must be released  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 75%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 80-90% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3. Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open  
+	- cruise flight: open 50%  
+	- combat: open 50%  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- cruise flight: open 50%  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.1 l/min  
+	- Combat engine mode: 10.6 l/min
 
 ## Modifications
 

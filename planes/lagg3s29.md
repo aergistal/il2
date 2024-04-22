@@ -52,7 +52,7 @@ Oil maximum temperature in engine output: 115 °C
 Supercharger gear shift altitude: 2500 m  
   
 Empty weight: 2620 kg  
-Minimum weight (no ammo, 10%25 fuel): 2773 kg  
+Minimum weight (no ammo, 10% fuel): 2773 kg  
 Standard weight: 3157 kg  
 Maximum takeoff weight: 3701 kg  
 Fuel load: 348 kg / 467 l  
@@ -84,12 +84,40 @@ Operation features:
 - Water and oil radiator shutters are controlled manually.  
 - The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - Landing flaps have a hydraulic actuator and they can be extended to any angle up to 60°.  
-- The aircraft tail wheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft tailwheel rotates freely and does not have a lock. For this reason, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a fuel gauge which shows total remaining fuel.  
 - Cockpit canopy has a weak lock when in the opened position, for this reason the canopy may spontaneously close in a deep dive. It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
 - The control system for the bomb rack only allows to drop the two bombs at the same time.  
-- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
+- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the oil radiator control handle: open  
+	- recommended position of the water radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture knob should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture knob should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes. At 8-9 km altitude, the altitude corrector closes to 0%.  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 40%  
+	- combat: open 100%  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 2.7 l/min
 
 ## Modifications
 

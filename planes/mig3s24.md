@@ -55,7 +55,7 @@ Oil maximum temperature in engine output: 120 °C
 Supercharger gear shift altitude: single gear  
   
 Empty weight: 2650 kg  
-Minimum weight (no ammo, 10%25 fuel): 2831 kg  
+Minimum weight (no ammo, 10% fuel): 2831 kg  
 Standard weight: 3244 kg  
 Maximum takeoff weight: 3476 kg  
 Fuel load: 352 kg / 480 l  
@@ -84,18 +84,43 @@ Combat debut: July 1941
 Operation features:  
 - The engine has a boost mode which is engaged by setting mixture control lever to maximum position.  
 - The engine has a single stage mechanical supercharger which does not require manual control.  
-- Engine mixture control is automatic when the mixture lever is set to the intermediate (50%25) position. It is possible to manually lean the mixture by moving the control lever to less than 50%25. This will lower fuel consumption during flight.  
+- Engine mixture control is automatic when the mixture lever is set to the intermediate (50%) position. It is possible to manually lean the mixture by moving the control lever to less than 50%. This will lower fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Water and oil radiator shutters are controlled manually.  
 - The aircraft has only pitch and yaw flight-control trimmers.  
 - The aircraft has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
 - Landing flaps have a limiter for the maximum angle. The flaps have an extended range from 0° to 50°. The landing flaps have pneumatic actuator. Flaps can only be instantly extended to the angle which is set by limiter, gradual extending is impossible. Due to weak force of the actuator the extended landing flaps may retract upward by the airflow when the airspeed is more than 220 km/h. For this reason, it is necessary to remember that flaps will not extend fully in case of high speed. In case of a high-speed landing approach the flaps may extend a few steps right before landing.  
-- The aircraft has a tailwheel control system which is unlocked and made controllable by the rudder if the rudder pedal is pressed more than for 40%25 of its range. The tailwheel remans locked if pedals are deflected less than 40%25. Because of this, it is necessary to avoid large rudder pedal inputs when moving at high speed, or be ready to control the airplane with an unlocked tailwheel should large rudder inputs be made.  
+- The aircraft has a tailwheel control system which is unlocked and made controllable by the rudder if the rudder pedal is pressed more than for 40% of its range. The tailwheel remans locked if pedals are deflected less than 40%. Because of this, it is necessary to avoid large rudder pedal inputs when moving at high speed, or be ready to control the airplane with an unlocked tailwheel should large rudder inputs be made.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a fuel gauge which shows total remaining fuel.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
 - When bombs are installed there is a salvo controller, it has two release modes: single drop or drop two in a salvo.  
-- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
+- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the radiator/cowl flap control handle: close  
+	- recommended position of the prop pitch control handle:auto prop pitch control  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100% (winter: 50%)  
+	- cruise flight: open 50% (winter: 20%)  
+	- combat: close  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100% (winter: 25%)  
+	- climb: open 100% (winter: 25%)  
+	- cruise flight: open 40% (winter: 20%)  
+	- combat: open 100%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.0 l/min  
+	- Combat engine mode: 7.2 l/min
 
 ## Modifications
 

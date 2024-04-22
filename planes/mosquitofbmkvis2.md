@@ -61,7 +61,7 @@ Oil maximum temperature in engine intake: 105 °C
 Supercharger gear shift altitude: automatic with possibility of manual switch to low gear  
   
 Empty weight: 6676 kg  
-Minimum weight (no ammo, 10%25 fuel): 7463 kg  
+Minimum weight (no ammo, 10% fuel): 7463 kg  
 Standard weight: 9026 kg  
 Maximum takeoff weight: 10194 kg  
 Fuel load: 1479.1 kg / 2060 l / 453 gallons  
@@ -97,7 +97,7 @@ Operation features:
 - Water and oil temperatures are controlled manually by adjusting the radiator shutter.  
 - The aircraft has trimmers for all flight-controls: pitch, roll and yaw.  
 - Landing flaps have hydraulic actuators and can be extended to any angle up to 45°. The speed with the extended flaps is limited to 150 mph.  
-- The aircraft tail wheel rotates freely and does not have a lock.  
+- The aircraft tailwheel rotates freely and does not have a lock.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft is equipped with a siren that warns a pilot if the throttle is set to low (less than 1/4) position with landing gear retracted.  
 - It is impossible to open the door at high speeds because of the ram air, but there is an emergency jettison handle for bailing out.  
@@ -105,7 +105,26 @@ Operation features:
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - When rockets are installed there is Mk.IIL gunsight modification. To make it easier to aim rockets it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).  
 - The aircraft is equipped with a bomb salvo controller, it has three release modes: drop single, drop two in a salvo or drop all bombs in salvo.  
-- When rockets are installed there is a salvo controller, it has two launch modes: fire two in a salvo or fire all rockets in a salvo. However, when Mk.III Tiered Rails are installed and "two rockets in a salvo" mode is selected, four rockets are launched from four rails (lower placed rockets are fired first).
+- When rockets are installed there is a salvo controller, it has two launch modes: fire two in a salvo or fire all rockets in a salvo. However, when Mk.III Tiered Rails are installed and "two rockets in a salvo" mode is selected, four rockets are launched from four rails (lower placed rockets are fired first).  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture  
+	- recommended position of the radiator: close  
+	- recommended position of the prop pitch control handle: light (100%)  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 11.8 l/min  
+	- Combat engine mode: 21.6 l/min
 
 ## Modifications
 

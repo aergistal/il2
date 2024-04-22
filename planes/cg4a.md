@@ -36,7 +36,7 @@ Operation features:
 - The airframe has interceptor spoilers with a manual mechanical drive, which, when released (by default, RAlt+B), reduce the lift of the wing and increase the drag, thereby shortening the glide path.  
 - The front part of the glider is a crew cabin, which on the ground can be tilted upward for loading and unloading cargo or troops.  
 - The aircraft has independent left and right pneumatic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
-- The airplane tail wheel rotates freely and does not have a lock.  
+- The airplane tailwheel rotates freely and does not have a lock.  
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).
 
 ## Modifications

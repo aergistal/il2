@@ -82,7 +82,7 @@ Oil maximum temperature in engine intake: 85 °C
 Supercharger gear shift altitude: fluid coupling   
   
 Empty weight: 2540 kg  
-Minimum weight (no ammo, 10%25 fuel): 2855 kg  
+Minimum weight (no ammo, 10% fuel): 2855 kg  
 Standard weight: 3222 kg  
 Maximum takeoff weight: 3585 kg  
 Fuel load: 304 kg / 400 l  
@@ -110,16 +110,32 @@ Operation features:
 - The aircraft has a wide automatization of the engine systems, in fact, to control speed it is only necessary to use the throttle lever. There is no need to manually set engine revolutions and mixture or supercharger gear in normal flight.  
 - MW-50 water-methanol mixture injection system that prevents the engine detonation in the emergency power mode (modification). It engages automatically when the throttle is set to maximum, there is enough mixture for 25-30 minutes. However, the engine can work up to 10 minutes at this mode, wait for another 10 minutes at the combat mode before engaging the emergency mode again. Attention: running the engine with the water-methanol mixture at altitudes higher than 8 km is forbidden! A pilot can check the system using the injection pressure indicator on the left: its normal pressure is 0.6...0.7 atm, stop using it if the pressure is lower than 0.4 atm and switch the engine to combat mode.  
 - In addition to full-automatic mode there is a special manual control mode for the radiator shutters, which can be used in specific situations.  
-- To reduce swinging during taxiing due to prop-wash the propeller pitch control should be switched to manual mode and pitch should be reduced to minimum.  
+- To reduce swinging during taxiing due to prop-wash the prop pitch control should be switched to manual mode and pitch should be reduced to minimum.  
 - The aircraft has no flight-control trimmers. Airplane is equipped with bendable trim tabs that can be set pre-flight by ground personnel.  
 - The aircraft has a manually controlled horizontal stabilizer. It should be set to +1° before takeoff and to -4°...-5° before landing. Also, it may be used to trim the flight stick during the flight. In a deep dive the stabilizer should be set so that the pilot must push the flight stick forward to maintain the dive angle.  
 - The aircraft has automatic wing slats. They deploy when the high angle of attack increases which makes pre-stall softer.  
 - The aircraft has a manual mechanical system for retracting the landing flaps, for this reason it is necessary to extend landing flaps well before final approach. Markers on the left-wing flap indicate how far the flaps are extended. The flaps can be extended to any angle up to 40°.  
-- The aircraft has a manual tail wheel lock. Wheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
+- The aircraft has a manual tailwheel lock. Wheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
 - The aircraft has independent left and right hydraulic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
 - The aircraft has a fuel gauge which shows total fuel remaining. Also, it has an emergency fuel warning light (80 liters).  
 - The design of the cockpit canopy does not allow it to be opened during flight. The canopy should be closed before takeoff to prevent damage. The canopy has an emergency release system for bailouts.  
-- The gunsight has a sliding sun-filter.
+- The gunsight has a sliding sun-filter.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil/water radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: auto prop pitch control  
+	- recommended position of the throttle lever: 10%  
+	- before taxiing, you must unlock the tailwheel  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 5.3 l/min  
+	- Combat engine mode: 8.2 l/min
 
 ## Modifications
 
