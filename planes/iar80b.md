@@ -88,6 +88,7 @@ Operation features:
 - The flaps are hydraulic and can be set to any angle up to 75°. In the dive bomber version, the fully released flaps are used as air brake. There is no flap position indicator.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a hydrostatic fuel gauge which shows total fuel remaining only when manual sucker lever is pushed in. In the sim, hold [RShift+I by default].  
+- It is impossible to open or close the canopy at high speed (more than 250 km/h) due to strong airflow. The I.A.R. 80/81-С series canopy has an emergency pneumatic opening system for bailouts.  
 - To drop bombs, you must switch on the bomb releasel system first [N key]. After dropping bombs, the system should be manually deactivated.  
 - When the bomb release system is switched on, the flaps are automatically fully released as an air brake and retract automatically either when the bomb release button is pressed or when the system is switched off.  
 - The bomb release system can either drop only the central bomb or all three bombs at once.  
