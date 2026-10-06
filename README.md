@@ -2,13 +2,17 @@
 
 [View on GitHub Pages](https://aergistal.github.io/il2/)  
 
-Version: 5.204 (18/06/2024)  
+Version: 7.008 (09/06/2026)  
 
 ## Planes
 
 ### A-20B
 [Specifications](planes/a20b.md)  
 ![a20b](images/planes/a20b.png)  
+
+### Airco D.H.2
+[Specifications](planes/aircodh2.md)  
+![aircodh2](images/planes/aircodh2.png)  
 
 ### Airco D.H.4
 [Specifications](planes/aircodh4.md)  
@@ -17,6 +21,10 @@ Version: 5.204 (18/06/2024)
 ### Albatros D.II
 [Specifications](planes/albatrosd2.md)  
 ![albatrosd2](images/planes/albatrosd2.png)  
+
+### Albatros D.III
+[Specifications](planes/albatrosd3.md)  
+![albatrosd3](images/planes/albatrosd3.png)  
 
 ### Albatros D.Va
 [Specifications](planes/albatrosd5.md)  
@@ -33,6 +41,10 @@ Version: 5.204 (18/06/2024)
 ### B-26B-55
 [Specifications](planes/b26b55.md)  
 ![b26b55](images/planes/b26b55.png)  
+
+### Bf 109 E-4
+[Specifications](planes/bf109e4.md)  
+![bf109e4](images/planes/bf109e4.png)  
 
 ### Bf 109 E-7
 [Specifications](planes/bf109e7.md)  
@@ -126,6 +138,10 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/fokkerdr1.md)  
 ![fokkerdr1](images/planes/fokkerdr1.png)  
 
+### Fokker E.III
+[Specifications](planes/fokkere3.md)  
+![fokkere3](images/planes/fokkere3.png)  
+
 ### Fw 190 A-3
 [Specifications](planes/fw190a3.md)  
 ![fw190a3](images/planes/fw190a3.png)  
@@ -186,6 +202,10 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/hurricanemkii.md)  
 ![hurricanemkii](images/planes/hurricanemkii.png)  
 
+### I-153
+[Specifications](planes/i153.md)  
+![i153](images/planes/i153.png)  
+
 ### I-16 type 24
 [Specifications](planes/i16t24.md)  
 ![i16t24](images/planes/i16t24.png)  
@@ -210,6 +230,10 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/il2m43.md)  
 ![il2m43](images/planes/il2m43.png)  
 
+### Il-2 mod.1944
+[Specifications](planes/il2m44.md)  
+![il2m44](images/planes/il2m44.png)  
+
 ### Ju 52/3m g4e
 [Specifications](planes/ju523mg4e.md)  
 ![ju523mg4e](images/planes/ju523mg4e.png)  
@@ -217,6 +241,10 @@ Version: 5.204 (18/06/2024)
 ### Ju 87 D-3
 [Specifications](planes/ju87d3.md)  
 ![ju87d3](images/planes/ju87d3.png)  
+
+### Ju 87 D-5
+[Specifications](planes/ju87d5.md)  
+![ju87d5](images/planes/ju87d5.png)  
 
 ### Ju 88 A-4
 [Specifications](planes/ju88a4.md)  
@@ -238,9 +266,17 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/la5s8.md)  
 ![la5s8](images/planes/la5s8.png)  
 
+### La-7 ser.1
+[Specifications](planes/la7s1.md)  
+![la7s1](images/planes/la7s1.png)  
+
 ### LaGG-3 ser.29
 [Specifications](planes/lagg3s29.md)  
 ![lagg3s29](images/planes/lagg3s29.png)  
+
+### LaGG-3 ser.4
+[Specifications](planes/lagg3s4.md)  
+![lagg3s4](images/planes/lagg3s4.png)  
 
 ### Li-2
 [Specifications](planes/li2.md)  
@@ -330,6 +366,10 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/re8.md)  
 ![re8](images/planes/re8.png)  
 
+### Roland C.IIa
+[Specifications](planes/rolandc2a.md)  
+![rolandc2a](images/planes/rolandc2a.png)  
+
 ### SSW D.IV
 [Specifications](planes/schuckertdiv.md)  
 ![schuckertdiv](images/planes/schuckertdiv.png)  
@@ -346,9 +386,21 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/sopdolphin.md)  
 ![sopdolphin](images/planes/sopdolphin.png)  
 
+### Sopwith Pup
+[Specifications](planes/soppup.md)  
+![soppup](images/planes/soppup.png)  
+
 ### Sopwith Snipe
 [Specifications](planes/sopsnipe.md)  
 ![sopsnipe](images/planes/sopsnipe.png)  
+
+### Sopwith 1½ Strutter
+[Specifications](planes/sopstrutter.md)  
+![sopstrutter](images/planes/sopstrutter.png)  
+
+### Sopwith 1½ Strutter B
+[Specifications](planes/sopstrutterb.md)  
+![sopstrutterb](images/planes/sopstrutterb.png)  
 
 ### Sopwith Triplane
 [Specifications](planes/soptriplane.md)  
@@ -406,9 +458,17 @@ Version: 5.204 (18/06/2024)
 [Specifications](planes/yak1s127.md)  
 ![yak1s127](images/planes/yak1s127.png)  
 
+### Yak-1 ser.23
+[Specifications](planes/yak1s23.md)  
+![yak1s23](images/planes/yak1s23.png)  
+
 ### Yak-1 ser.69
 [Specifications](planes/yak1s69.md)  
 ![yak1s69](images/planes/yak1s69.png)  
+
+### Yak-3 ser.9
+[Specifications](planes/yak3s9.md)  
+![yak3s9](images/planes/yak3s9.png)  
 
 ### Yak-7B series 36
 [Specifications](planes/yak7bs36.md)  

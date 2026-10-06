@@ -1,6 +1,6 @@
-# La-5FN ser.2
+# La-7 ser.1
 
-![la5fns2](../images/planes/la5fns2.png)
+![la7s1](../images/planes/la7s1.png)
 
 ## Description
 
@@ -11,15 +11,12 @@ Maximum load factor: 10 G
 Stall angle of attack in flight configuration: 22.2 °  
 Stall angle of attack in landing configuration: 15.0 °  
   
-Maximum true air speed at sea level, engine mode - Nominal: 552 km/h  
-Maximum true air speed at sea level, engine mode - Boosted: 583 km/h  
-Maximum true air speed at 2500 m, engine mode - Nominal: 605 km/h  
-Maximum true air speed at 6000 m, engine mode - Nominal: 646 km/h  
+Maximum true air speed at sea level, engine mode - Boosted: 603 km/h  
+Maximum true air speed at 2500 m, engine mode - Nominal: 641 km/h  
+Maximum true air speed at 6000 m, engine mode - Nominal: 665 km/h  
   
 Service ceiling: 10500 m  
-Climb rate at sea level: 20 m/s  
-Climb rate at 3000 m: 16.7 m/s  
-Climb rate at 6000 m: 12.5 m/s  
+Climb rate at 1000 m: 24 m/s  
   
 Maximum performance turn at sea level: 21.0 s, at 320 km/h IAS.  
 Maximum performance turn at 3000 m: 28.0 s, at 340 km/h IAS.  
@@ -54,25 +51,26 @@ Cylinder head maximum temperature: 250 °C
   
 Supercharger gear shift altitude: 3500 m  
   
-Empty weight: 2655 kg  
-Minimum weight (no ammo, 10% fuel): 2929 kg  
-Standard weight: 3305 kg  
-Maximum takeoff weight: 3544 kg  
-Fuel load: 334 kg / 464 l  
-Useful load: 896 kg  
+Empty weight: 2588 kg  
+Minimum weight (no ammo, 10% fuel): 2771 kg  
+Standard weight: 3233 kg  
+Maximum takeoff weight: 3461 kg  
+Fuel load: 342 kg / 466 l  
+Useful load: 783 kg  
   
 Forward-firing armament:  
 2 x 20mm gun "ShVAK", 170 rounds, 800 rounds per minute, synchronized  
+3 x 20mm gun "B-20", 130 rounds, 800 rounds per minute, synchronized (modification)  
   
 Bombs:  
 2 x 50 kg general purpose bombs "FAB-50sv"  
 2 x 104 kg general purpose bombs "FAB-100M"  
   
-Length: 8.672 m  
+Length: 8.640 m  
 Wingspan: 9.8 m  
 Wing surface: 17.51 m²  
   
-Combat debut: June 1943  
+Combat debut: May-June 1944  
   
 Operation features:  
 - The engine has a boost mode. To engage it, increase the manifold pressure to 1180 mm Hg. Boost only works on 1st supercharger gear.  
@@ -122,6 +120,12 @@ Basic data and recommended positions of the aircraft controls:
 
 ## Modifications
 
+**3x 20mm B-20**  
+3 20mm cannon B-20 with 130 rounds per gun instead of default 2 20mm SHVAK.  
+Additional mass: 5 kg  
+Ammunition mass: 87 kg  
+Guns mass: 76,5 kg
+
 **2 x FAB-50sv bombs**  
 2 x 50 kg General Purpose Bombs FAB-50sv  
 Additional mass: 120 kg  
@@ -129,21 +133,6 @@ Ammunition mass: 100 kg
 Racks mass: 20 kg  
 Estimated speed loss before drop: 20 km/h  
 Estimated speed loss after drop: 12 km/h
-
-**Landing light**  
-Landing light for night flights  
-Additional mass: 2 kg  
-Estimated speed loss: 0 km/h
-
-**Mirror**  
-Rear view mirror  
-Additional mass: 1 kg  
-Estimated speed loss: 0 km/h
-
-**RPK-10**  
-Fixed loop radio compass for navigation with radio beacons  
-Additional mass: 10 kg  
-Estimated speed loss: 0 km/h
 
 **2 x FAB-100M bombs**  
 2 x 104 kg General Purpose Bombs FAB-100M  
@@ -153,5 +142,22 @@ Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h  
 Estimated speed loss after drop: 12 km/h
 
-**Special Guns Ammo Load**  
-Loadout variants: armour piercing (AP) or high-explosive (HE) rounds only
+**PKI Reflector Gunsight**  
+PKI reflector gunsight  
+Additional mass: 0.5 kg  
+Estimated speed loss: 0 km/h
+
+**Landing light**  
+Landing light for night flights  
+Additional mass: 2 kg  
+Estimated speed loss: 0 km/h
+
+**RPK-10**  
+Fixed loop radio compass for navigation with radio beacons  
+Additional mass: 10 kg  
+Estimated speed loss: 0 km/h
+
+**Mirror**  
+Rear view mirror  
+Additional mass: 1 kg  
+Estimated speed loss: 0 km/h

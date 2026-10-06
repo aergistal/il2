@@ -68,8 +68,8 @@ minimal consumption — 5 h. 10 min.
   
 Armament:  
 Forward firing: 1 x Vickers Mk.I 7.69 mm, 973 rounds per barrel  
-Tail upper position: 2 x Lewis 7.69 mm, 8 drums with 97 rounds each  
-1749 7.69 mm rounds in total  
+Tail upper position: 1 x Lewis 7.69 mm, 7 drums with 97 rounds each  
+1652 7.69 mm rounds in total  
   
 Bomb load variations:  
 12 x 24 lb (131 kg)  

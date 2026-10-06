@@ -51,7 +51,7 @@ Maximum power in Combat mode at 5800 m: 1250 HP
 Engine modes:  
 Nominal (unlimited time): 2300 RPM, 1.15 ata  
 Combat power (up to 30 minutes): 2600 RPM, 1.3 ata  
-Emergency power (up to 1 minute): 2800 RPM, 1.42 ata  
+Emergency power (up to 3 minutes): 2800 RPM, 1.42 ata  
 Emergency power (up to 10 minute with MW-50): 2800 RPM, 1.7 ata (modification)  
   
 Water rated temperature in engine output: 100..102 °C  

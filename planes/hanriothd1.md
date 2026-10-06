@@ -21,6 +21,8 @@ Wing surface: 18.2 sq.m
 Weight  
 Empty weight: 406.9 kg  
 Takeoff weight: 612.1 kg  
+Fuel capacity: 104 l  
+Oil capacity: 18 l  
   
 Climb rate  
 1000 m:  2 min. 39 sec.  

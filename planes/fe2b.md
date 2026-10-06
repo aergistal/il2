@@ -27,6 +27,8 @@ Wing surface: 45.9 sq.m
 Weight  
 Empty weight: 936 kg  
 Takeoff weight: 1380 kg  
+Fuel capacity: 249 l  
+Oil capacity: 27 l  
   
 Maximum airspeed (IAS), without bombload:  
 seal level - 147 km/h  
