@@ -59,7 +59,7 @@ Maximum power in Combat mode at 7800 m: 1150 HP
 Engine modes:  
 Nominal (unlimited time): 2300 RPM, 1.15 ata  
 Combat power (up to 30 minutes): 2600 RPM, 1.3 ata  
-Emergency power (up to 1 minute): 2800 RPM, 1.42 ata  
+Emergency power (up to 3 minutes): 2800 RPM, 1.42 ata  
   
 Engine:  
 Model: DB-605ASM  

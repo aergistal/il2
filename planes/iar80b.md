@@ -49,7 +49,7 @@ Emergency (up to 3 minutes): 2300 RPM, 935 mm Hg
 Oil rated temperature in engine output: 40..110 °C  
 Oil maximum temperature in engine output: 120 °C  
   
-Empty weight: 20930 kg  
+Empty weight: 2093 kg  
 Minimum weight (no ammo, 10% fuel): 2522 kg  
 Standard weight: 2745 kg  
 Maximum takeoff weight: 3030 kg  

@@ -61,7 +61,7 @@ Fuel load: 370 kg / 521 l
 Useful load: 945 kg  
   
 Forward-firing armament:  
-2 x 20mm gun "SsVAK", 170 rounds, 800 rounds per minute, synchronized  
+2 x 20mm gun "ShVAK", 170 rounds, 800 rounds per minute, synchronized  
   
 Bombs:  
 2 x 50 kg general purpose bombs "FAB-50sv"  

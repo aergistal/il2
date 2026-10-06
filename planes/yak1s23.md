@@ -1,86 +1,92 @@
-# Yak-9 ser.1
+# Yak-1 ser.23
 
-![yak9s1](../images/planes/yak9s1.png)
+![yak1s23](../images/planes/yak1s23.png)
 
 ## Description
 
-Indicated stall speed in flight configuration: 152..160 km/h  
-Indicated stall speed in takeoff/landing configuration: 136..141 km/h  
-Dive speed limit: 750 km/h  
-Maximum load factor: 10.5 G  
-Stall angle of attack in flight configuration: 18°  
-Stall angle of attack in landing configuration: 16°  
+Indicated stall speed in flight configuration: 156..172 km/h  
+Indicated stall speed in takeoff/landing configuration: 134..147 km/h  
+Dive speed limit: 720 km/h  
+Maximum load factor: 10.3 G  
+Stall angle of attack in flight configuration: 18.2 °  
+Stall angle of attack in landing configuration: 15.7 °  
   
-Maximum true air speed at sea level, engine mode - Nominal, 2550 RPM: 537 km/h  
-Maximum true air speed at sea level, engine mode - Nominal, 2700 RPM: 529 km/h  
-Maximum true air speed at 1700 m, engine mode - Nominal, 2700 RPM: 563 km/h  
-Maximum true air speed at 3800 m, engine mode - Nominal, 2700 RPM: 594 km/h  
+Maximum true air speed at sea level, engine mode - Take-off, 2600 RPM: 485 km/h  
+Maximum true air speed at sea level, engine mode - Nominal, 2700 RPM: 475 km/h  
+Maximum true air speed at 2000 m, engine mode - Nominal, 2700 RPM: 518 km/h  
+Maximum true air speed at 4000 m, engine mode - Nominal, 2700 RPM: 537 km/h  
   
-Service ceiling: 10500 m  
-Climb rate at sea level: 18.5 m/s  
-Climb rate at 3000 m: 15.8 m/s  
-Climb rate at 6000 m: 9.0 m/s  
+Service ceiling: 10400 m  
+Climb rate at sea level: 14.3 m/s  
+Climb rate at 3000 m: 12.9 m/s  
+Climb rate at 6000 m: 8.85 m/s  
   
-Maximum performance turn at sea level: 17.5 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 22.5 s, at 285 km/h IAS.  
+Maximum performance turn at sea level: 19.6 s, at 280 km/h IAS.  
+Maximum performance turn at 3000 m: 25.7 s, at 275 km/h IAS.  
   
-Flight endurance at 3000 m: 2.1 h, at 350 km/h IAS.  
+Flight endurance at 3000 m: 1.8 h, at 350 km/h IAS.  
   
 Takeoff speed: 160..190 km/h  
 Glideslope speed: 195..205 km/h  
 Landing speed: 135..145 km/h  
-Landing angle: 12 °  
+Landing angle: 12.3 °  
   
 Note 1: the data provided is for international standard atmosphere (ISA).  
 Note 2: flight performance ranges are given for possible aircraft mass ranges.  
 Note 3: maximum speeds, climb rates and turn times are given for standard aircraft mass.  
-Note 4: climb rates and turn times are given for Nominal (2700 RPM) power.  
+Note 4: climb rates are given for Nominal (2700 RPM) power, turn times are given for Take-off power.  
   
 Engine:  
-Model: M-105PF  
-Maximum power in Nominal mode (2550 RPM) at sea level: 1240 HP  
-Maximum power in Nominal mode (2700 RPM) at sea level: 1210 HP  
-Maximum power in Nominal mode (2700 RPM) at 800 m: 1260 HP  
-Maximum power in Nominal mode (2700 RPM) at 2700 m: 1200 HP  
+Model: M-105P (М-105PA - modification)  
+Maximum power in Maximum Possible power mode at sea level: 1100 HP  
+Maximum power in Nominal mode at sea level: 1020 HP  
+Maximum power in Nominal mode at 2000 m: 1100 HP  
+Maximum power in Nominal mode at 4000 m: 1050 HP  
   
 Engine modes:  
-Nominal (unlimited time): 2550/2700 RPM, 1050 mm Hg  
+Nominal (unlimited time): 2700 RPM, 910 mm Hg  
+Take-off power (up to 5 minutes): 2600 RPM, 950 mm Hg  
   
 Water rated temperature in engine output: 70..85 °C  
 Water maximum temperature in engine output: 100 °C  
 Oil rated temperature in engine output: 90..100 °C  
 Oil maximum temperature in engine output: 115 °C  
   
-Supercharger gear shift altitude: 2200 m  
+Supercharger gear shift altitude: 3600 m  
   
-Empty weight: 2254 kg  
-Minimum weight (no ammo, 10% fuel): 2549 kg  
-Standard weight: 2841 kg  
-Maximum takeoff weight: 2858 kg  
-Fuel load: 324 kg / 440 l  
-Useful load: 604 kg  
+Empty weight: 2371 kg  
+Minimum weight (no ammo, 10% fuel): 2589 kg  
+Standard weight: 2938 kg  
+Maximum takeoff weight: 3034 kg  
+Fuel load: 304 kg / 408 l  
+Useful load: 663 kg  
   
 Forward-firing armament:  
 20mm gun "ShVAK", 120 rounds, 800 rounds per minute, nose-mounted  
-12.7mm machine gun "UB", 200 rounds, 1000 rounds per minute, synchronized  
+2 x 7.62mm machine gun "ShKAS", 750 rounds, 1800 rounds per minute, synchronized  
+  
+Rockets:  
+Up to 6 x 7 kg rockets "ROS-82", HE payload mass 2.52 kg  
   
 Length: 8.5 m  
 Wingspan: 10 m  
 Wing surface: 17.15 m²  
   
-Combat debut: November 1942  
+Combat debut: July 1941  
   
 Operation features:  
-- The engine has a two-stage mechanical supercharger which must be manually switched at 2000...2400m altitude.  
+- The engine has a two-stage mechanical supercharger which must be manually switched at 3600m altitude.  
 - Engine mixture control is manual; it is necessary to lean the mixture if altitude is more than 3-4 km for optimal engine operation. Also, leaning the mixture allows a reduction in fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  
 - Water and oil radiator shutters are controlled manually.  
-- The airplane can only be trimmed in the pitch axis.  
+- The aircraft has only the pitch flight-control trimmer.  
 - Landing flaps have a pneumatic actuator. Flaps can only be fully extended; gradual extending is impossible. Due to the weak force of the actuator the extended landing flaps may be pressed upwards by the airflow if the airspeed is more than 220 km/h. Remember that the flaps will not extend fully in case of high speed. In case of a high-speed landing approach the flaps may extend a few steps further right before landing.  
 - The aircraft has a manual control for the tailwheel lock. The unlocked tailwheel has a 90° turn limit. The tailwheel should be locked when taxiing straight for a long distance and before takeoff and landing.  
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- Fuel gauges are installed on left and right wing fuel tanks, outside of the cockpit. Less than 25l of fuel remaining in the wing tanks or the central feeder tank (10 litres capacity) are not measured.  
-- The canopy has no emergency release. In order to bail out, you must slow below 550 kph to open the canopy.  
+- Fuel gauges are installed on left and right wing fuel tanks, outside of the cockpit. They show remaining fuel level only when there is less than 80 liters of fuel left in the tank.  
+- It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
+- When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
+- There is no radio station in the default aircraft configuration. As a modification, the installation of the RSI-4 radio station is provided.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
@@ -98,36 +104,33 @@ Basic data and recommended positions of the aircraft controls:
 3.1 Recommended positions of the oil radiator control handle for various flight modes:  
 	- takeoff: open 100%  
 	- climb: open 100%  
-	- cruise flight: open 30%  
+	- cruise flight: open 50%  
 	- combat: open 100%  
   
 3.2 Recommended positions of the water radiator control handle for various flight modes:  
 	- takeoff: open 100%  
 	- climb: open 100%  
-	- cruise flight: open 40%  
+	- cruise flight: open 66%  
 	- combat: open 80%  
   
 4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 7.5 l/min
+	- nominal mode of engine operation: 7.4 l/min
 
 ## Modifications
 
-**Mirror**  
-Rear view mirror  
-Additional mass: 1 kg  
-Estimated speed loss: 0 km/h
+**6 x ROS-82 rockets**  
+6 x 82mm High Explosive unguided rockets ROS-82  
+Additional mass: 60 kg  
+Ammunition mass: 42 kg  
+Racks mass: 18 kg  
+Estimated speed loss before launch: 23 km/h  
+Estimated speed loss after launch: 17 km/h
 
-**RPK-10**  
-Fixed loop radio compass for navigation with radio beacons  
-Additional mass: 10 kg  
-Estimated speed loss: 0 km/h
+**M-105PA Engine**  
+The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.  
+Additional mass: 30 kg
 
-**Landing light**  
-Landing light for night flights  
-Additional mass: 2 kg  
-Estimated speed loss: 0 km/h
-
-**Reflector Gunsight**  
-PBP-1A reflector gunsight  
-Additional mass: 0.5 kg  
+**Radio transmitter**  
+Radio transmitter RSI-4  
+Additional mass: 12.6 kg  
 Estimated speed loss: 0 km/h
